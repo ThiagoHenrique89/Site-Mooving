@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+
+# Redireciona o tráfego para a pasta 'src' e a index.php
+RewriteCond %{REQUEST_URI} !^/src/
+RewriteRule ^(.*)$ /src/index.php [L]
