@@ -13,10 +13,11 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Configurar FTP e enviar arquivos
-        uses: sebastienvercammen/ftp-deploy-action@v1.0.0  # Nova alternativa
+        uses: sebastienvercammen/ftp-deploy-action@v1.0.0  # Usando a ação alternativa
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./  # Diretório local a ser enviado
           server-dir: /public_html/  # Diretório no servidor (geralmente 'public_html')
+          ftp-connection-type: 'ftp'  # Desabilita criptografia (FTP simples)
