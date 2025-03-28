@@ -49,7 +49,7 @@
 				<a href="/cases">CASES</a>
 				<a href="/sobre">SOBRE</a>
             </div>
-			<button class="cta-button">ENTRE EM CONTATO</button>
+			<a href="https://api.whatsapp.com/send?phone=5511916945159" class="cta-button">ENTRE EM CONTATO</a>
         </div>
     </div>
 </nav>
