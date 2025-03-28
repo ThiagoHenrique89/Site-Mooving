@@ -2,9 +2,9 @@
 		<div class="banner">
 			<picture>
 				<!-- Imagem para telas menores (até 768px) --->
-				<source srcset="/src/assets/images/mosaico-header-bg-verde-celular.jpg" media="(max-width: 768px)">
+				<source srcset="/assets/images/mosaico-header-bg-verde-celular.jpg" media="(max-width: 768px)">
 				<!-- Imagem padrão para telas maiores -->
-				<img src="/src/assets/images/mosaico-header-bg-verde.jpg" alt="Imagem Header">
+				<img src="/assets/images/mosaico-header-bg-verde.jpg" alt="Imagem Header">
 			</picture>
 			<div class="container">
 				<h1 class="light">Somos uma <strong>agência de marketing digital em Jundiaí</strong> especializada em <strong>publicidade</strong> e <strong>propaganda</strong>, conectamos <strong>marca</strong> e <strong>cliente</strong>.</h1>
@@ -27,7 +27,7 @@
 			</div>
 			<div class="cards">
 				<div class="card">
-					<img src="/src/assets/images/02.jpg" alt="Imagem 1">
+					<img src="/assets/images/02.jpg" alt="Imagem 1">
 					<h3><span class="light">CONCEITO<br>&</span> BRANDING</h3>
 					<p>
 					Uma marca bem construída não apenas atrai, mas também fideliza, tornando-se reconhecida e desejada.
@@ -46,7 +46,7 @@
 					</nav>
 				</div>
 				<div class="card">
-					<img src="/src/assets/images/01.jpg" alt="Imagem 1">
+					<img src="/assets/images/01.jpg" alt="Imagem 1">
 					<h3><span class="light">GROWTH<br>&</span> CAMPANHAS</h3>
 					<p>
 					Aumentamos vendas e geramos leads, garantindo que seus conteúdos se conectem com seu público.
@@ -65,7 +65,7 @@
 					</nav>
 				</div>
 				<div class="card">
-					<img src="/src/assets/images/3.jpg" alt="Imagem 1">
+					<img src="/assets/images/3.jpg" alt="Imagem 1">
 					<h3><span class="light">CRM<br>&</span> CONTEÚDO</h3>
 					<p>Fidelizar clientes é mais econômico do que conquistar novos. Criamos ações personalizadas e eficientes.
 					</p>
