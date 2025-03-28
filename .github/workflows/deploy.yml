@@ -3,7 +3,7 @@ name: Deploy para Hostinger
 on:
   push:
     branches:
-      - master
+      - master  # ou 'main', dependendo da sua branch
 
 jobs:
   deploy:
@@ -13,10 +13,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Configurar FTP e enviar arquivos
-        uses: SamKirkland/FTP-Deploy-Action@v4
+        uses: SamKirkland/FTP-Deploy-Action@v3  # Tente usar a versão v3
         with:
-          server: ${{ secrets.FTP_HOST }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./
-          server-dir: /public_html/
+          server: ${{ secrets.FTP_HOST }}  # Usando o secret 'FTP_HOST'
+          username: ${{ secrets.FTP_USERNAME }}  # Usando o secret 'FTP_USERNAME'
+          password: ${{ secrets.FTP_PASSWORD }}  # Usando o secret 'FTP_PASSWORD'
+          local-dir: ./  # Diretório local a ser enviado
+          server-dir: /public_html/  # Diretório no servidor (geralmente 'public_html')
