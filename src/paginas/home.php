@@ -1,7 +1,7 @@
 <header>
 		<div class="banner">
 			<picture>
-				
+				<!-- Imagem para telas menores (até 768px) -->
 				<source srcset="assets/images/mosaico-header-bg-verde-celular.jpg" media="(max-width: 768px)">
 				<!-- Imagem padrão para telas maiores -->
 				<img src="assets/images/mosaico-header-bg-verde.jpg" alt="Imagem Header">
