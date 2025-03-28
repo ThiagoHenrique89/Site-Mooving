@@ -1,6 +1,6 @@
 <div class="whatsapp-fixo">
     <a href="https://api.whatsapp.com/send?phone=5511916945159">
-        <img src="assets/images/whatsapp-flutuante.png" alt="Fale Conosco pelo WhatsApp" />
+        <img src="/src/assets/images/whatsapp-flutuante.png" alt="Fale Conosco pelo WhatsApp" />
     </a>
 </div>
   <footer >
@@ -9,7 +9,7 @@
   </article>
  </main>
 
-<script src="assets/scripts.js"></script>
+<script src="/src/assets/scripts.js"></script>
 
  </body>
 
