@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Configurar FTP e enviar arquivos
-        uses: Burnett01/ftp-deploy-action@v1.2.0  # Alternativa ao SamKirkland/FTP-Deploy-Action
+        uses: sebastienvercammen/ftp-deploy-action@v1.0.0  # Nova alternativa
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
