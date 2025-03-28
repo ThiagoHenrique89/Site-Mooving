@@ -1,1 +1,2 @@
-/src/
+# Ignorar a pasta src
+src/*
