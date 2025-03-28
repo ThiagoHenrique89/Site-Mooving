@@ -1,0 +1,399 @@
+/* Reset de CSS bÃƒÂ¡sico */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tipografia */
+body {
+  background-color: #e4e4e4;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400; /* Peso normal */
+  line-height: 1.6;
+  color: #262626;
+}
+
+.logo a {
+
+  vertical-align: top;
+  line-height: 1;
+
+}
+
+/* Listas */
+ul, ol {
+ padding: 0 10px;
+}
+
+/* Tabelas */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Imagens */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: inherit;
+  letter-spacing: .2px;
+}
+
+/* FormulÃƒÂ¡rios */
+input, textarea, button, select {
+  font: inherit;
+  border: none;
+  background: none;
+}
+
+/* Remover espaÃƒÂ§amento extra em elementos de formataÃƒÂ§ÃƒÂ£o */
+button, input[type="button"], input[type="submit"], input[type="reset"], select {
+  cursor: pointer;
+  background: transparent;
+}
+
+/* Scrollbars */
+html {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Remove o estilo padrÃƒÂ£o de botÃƒÂµes */
+button:focus, input:focus, textarea:focus {
+  outline: none;
+}
+
+/* Container padrÃƒÂ£o para desktop */
+.container {
+    width: 100%;
+    max-width: 1200px; /* Largura mÃƒÂ­nima de 1400px para desktop */
+    margin: 0 auto; /* Centraliza o container */
+    padding: 0 20px; /* Padding nas laterais */
+}
+
+/* Definindo fontes base para todo o site */
+html {
+  font-size: 16px; /* Base para 1rem = 16px */
+}
+
+
+/* TÃƒÂ­tulos principais - h1 */
+h1 {
+  font-size: clamp(30px, 5vw, 50px);
+  margin-bottom: 20px;
+  font-weight: 900; /* Peso extra pesado para maior destaque */
+  line-height: 1.2;
+}
+
+/* TÃƒÂ­tulos secundÃƒÂ¡rios - h2 */
+h2 {
+  font-size: clamp(25px, 3vw, 36px);
+  margin-bottom: 30px;
+  font-weight: 800; /* Peso mais pesado para tÃƒÂ­tulos secundÃƒÂ¡rios */
+  letter-spacing: 1px;
+  line-height: 1;
+}
+
+/* TÃƒÂ­tulos menores - h3 */
+h3 {
+  font-size: clamp(20px, 2vw, 25px);
+  margin-bottom: 30px;
+  font-weight: 700; /* Peso para subtÃƒÂ­tulos */
+  line-height: 1.1;
+  letter-spacing: .5px;
+}
+
+/* ParÃƒÂ¡grafos - p */
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #4d4d4d;
+  margin-bottom: 15px;
+  font-weight: 300; /* Peso mais leve para o texto do parÃƒÂ¡grafo */
+  letter-spacing: .2px;
+}
+.light {
+  font-weight: 300;
+}
+  
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.col {
+  flex: 1;
+  padding: 20px;
+}
+
+section {
+  padding: 75px 0;
+}
+
+.navbar {
+    background-color: #262626;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    /*display: flex;*/
+    display: none;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+.displayMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+}
+.cta-button {
+    background-color: #1aff45;
+    color: #262626;
+    padding: 10px 35px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    height: fit-content;
+    font-weight: 500;
+}
+.cta-button:hover {
+  background-color: #62966c;
+  color: #ffffff;
+}
+
+.logo img {
+    transition: transform 0.1s ease-in-out;
+}
+
+.logo:hover img {
+    animation: tremor 0.2s ;
+}
+
+@keyframes tremor {
+    0% { transform: translate(0, 0); }
+    25% { transform: translate(-2px, 2px); }
+    50% { transform: translate(2px, -2px); }
+    75% { transform: translate(-2px, -2px); }
+    100% { transform: translate(2px, 2px); }
+}
+.banner {
+    position: relative;
+    display: inline-block; /* Ajusta o tamanho ao da imagem */
+}
+
+.banner img {
+    display: block; /* Remove espaÃƒÂ§amentos indesejados */
+    width: 100%; /* Ajuste conforme necessÃƒÂ¡rio */
+    height: auto;
+}
+
+.banner h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: clamp(1.5rem, 3.2vw, 3.7rem);
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 0;
+    color: #ffffff;
+    width: inherit;
+    padding: 0 30px;
+    max-width: 1200px
+}
+.barra {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+@keyframes borda-animada {
+  0% { background-position: 200% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.card {
+  flex: 1 1 calc(33.33% - 20px);
+  background: white;
+  padding: 40px 30px;
+  border-radius: 8px 8px 0 0;
+  text-align: left;
+  position: relative;
+  overflow: hidden; /* Evita que o pseudo-elemento ultrapasse os limites */
+}
+
+/* Criando a borda animada no topo com ::before */
+.card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5px; /* Espessura da borda */
+  background: linear-gradient(90deg, #1aff45, #262626, #1aff45);
+  background-size: 200% 100%;
+  animation: borda-animada 2.5s infinite linear;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.menuCard {
+  padding: 0 10px;
+  display: grid;
+  row-gap: 5px;
+}
+.menuCard li{
+  font-weight: 600;
+  font-size: 12.5px;
+}
+.whatsapp-fixo{
+  position: fixed;
+  top: 90vh;
+  right: 13px;
+  z-index: 9999;
+}
+
+.bloco {
+  display: flex;
+  background-color: white;
+  padding: 30px;
+  margin-bottom: 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* Layout das colunas */
+.coluna {
+  padding: 10px;
+}
+
+.esquerda {
+  width: 33.33%;
+}
+
+.direita {
+  width: 66.67%;
+}
+.direita p {
+  padding-left: 30px;
+  margin-bottom: 0;
+}
+.esquerda  h2 {
+  margin-bottom: 0;
+}
+/* Estilização do subtítulo */
+.subtitulo {
+  display: block;
+  font-size: 14px;
+  color: #262626;
+  margin-bottom: 5px;
+}
+.active {
+  color: #1aff45 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    /* Estilos para tablets (a partir de 768px) */
+    @media (max-width: 1024px) {
+      .container {
+        padding: 0 15px; /* Ajuste de padding para tablets */
+      }
+      .col {
+        flex: 1 1 calc(33.33% - 10px);
+    }
+
+    }
+
+      /* Estilos para celulares (a partir de 480px) */
+  @media (max-width: 768px) {
+    .container {
+      padding: 0 10px; /* Ajuste de padding para celulares */
+    }
+    .col {
+      flex: 1 1 calc(100% - 10px);
+  }
+  .menu {
+      position: absolute;
+      top: 78px;
+      left: 0;
+      width: 100%;
+      background-color: #e4e4e4;
+      padding: 10px 20px;
+      border-top: #1aff449c solid 1px;
+    }
+    .displayMenu  {
+      padding: 0 !important;
+    }
+    .menu a {
+      color: #262626;
+    }
+    .logo img {
+        transition: transform 0.1s ease-in-out;
+        width: 150px;
+    }
+    .navbar {
+      padding: 20px 20px 60px 20px;
+    }
+    .cta-button {
+      padding: 10px 15px;
+      font-size: 12px;
+    }
+    .card {
+      flex: 1 1 100%;
+    }
+    html {
+    font-size: 18px; /* Para telas grandes, define 1rem como 18px */
+    }
+    .bloco {
+      flex-direction: column;
+  }
+  .esquerda, .direita {
+      width: 100%;
+  }
+  .active {
+    color: #62966c !important;
+  }
+  
+  
+  }
