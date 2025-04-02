@@ -5,7 +5,7 @@ FROM php:7.4-apache
 RUN a2enmod rewrite
 
 # Copia o código-fonte do projeto para o container
-COPY ./src /var/www/html/
+COPY . /var/www/html/
 
 # Expõe a porta 80
 EXPOSE 80
