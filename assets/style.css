@@ -281,7 +281,7 @@ section {
 }
 .whatsapp-fixo{
   position: fixed;
-  top: 95%;
+  bottom: 25px;
   right: 13px;
   z-index: 9999;
 }
