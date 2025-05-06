@@ -17,7 +17,7 @@ body {
 }
 
 strong {
-  font-weight: 600
+  font-weight: 600 !important
 }
 
 .logo a {
@@ -281,7 +281,7 @@ section {
 }
 .whatsapp-fixo{
   position: fixed;
-  top: 90vh;
+  top: 85vh;
   right: 13px;
   z-index: 9999;
 }
