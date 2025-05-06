@@ -16,6 +16,10 @@ body {
   color: #262626;
 }
 
+strong {
+  font-weight: 600
+}
+
 .logo a {
 
   vertical-align: top;
