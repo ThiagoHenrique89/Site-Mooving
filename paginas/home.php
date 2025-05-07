@@ -7,7 +7,7 @@
 				<img src="/assets/images/mosaico-header-bg-verde.jpg" alt="Imagem Header">
 			</picture>
 			<div class="container">
-				<h1 class="light">Somos uma <strong>agência de marketing digital em Jundiaí</strong> especializada em <strong>publicidade</strong> e <strong>propaganda</strong>, conectamos <strong>marca</strong> e <strong>cliente</strong>.</h1>
+				<h1 class="light">Somos uma <strong>agência de marketing digital em Jundiaí</strong> especializada em <strong>publicidade</strong> e <strong>propaganda</strong>, <strong>conectamos marca</strong> e <strong>cliente</strong>.</h1>
 			</div>
 		</div>
 </header>
