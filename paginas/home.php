@@ -13,6 +13,32 @@
 </header>
 <main>
     <article>
+		<section class="carrosel-section">
+		<div class="carrossel-palavras">
+			<div class="conteudo-carrossel">
+
+			<!-- Primeiro grupo -->
+			<h2>Criação de sites <span class="separador">*</span></h2>
+			<h2>Branding <span class="separador">*</span></h2>
+			<h2>Identidade visual <span class="separador">*</span></h2>
+			<h2>Gestão de mídias sociais <span class="separador">*</span></h2>
+			<h2>Vídeos animados <span class="separador">*</span></h2>
+			<h2>Anuncie nas redes sociais e Google <span class="separador">*</span></h2>
+			<h2>Otimização de sites (SEO) <span class="separador">*</span></h2>
+
+			<!-- Segundo grupo (repetido para efeito contínuo) -->
+			<h2>Criação de sites <span class="separador">*</span></h2>
+			<h2>Branding <span class="separador">*</span></h2>
+			<h2>Identidade visual <span class="separador">*</span></h2>
+			<h2>Gestão de mídias sociais <span class="separador">*</span></h2>
+			<h2>Vídeos animados <span class="separador">*</span></h2>
+			<h2>Anuncie nas redes sociais e Google <span class="separador">*</span></h2>
+			<h2>Otimização de sites (SEO) <span class="separador">*</span></h2>
+
+			</div>
+		</div>
+		</section>
+
         <section class="primeiraSection">
 			<div class="container">
 			<div class="bloco">
@@ -37,7 +63,7 @@
 					</p>
 					<nav class="menuCard">
 						<ul>
-							<li><a href="#">LOGOTIPO + IDENTIDADE VISUAL</a></li>
+							<li><a href="/logotipo-identidade-visual">LOGOTIPO + IDENTIDADE VISUAL</a></li>
 							<li><a href="#">REBRANDING</a></li>
 							<li><a href="#">SITE INSTITUCIONAL</a></li>
 							<li><a href="#">NAMING – METODOLOGIA INTERNA</a></li>
@@ -85,7 +111,7 @@
 				</div>
 			</div>
 		</section>
-		<section>
+		<section class="marcas">
 			<div class="container">
 			<div class="bloco">
 				<div class="coluna esquerda">
@@ -102,6 +128,27 @@
 					<img src="/assets/images/marcas/marca5.jpg" alt="Marca 5">
 					<img src="/assets/images/marcas/marca6.jpg" alt="Marca 6">
 				</div>
+				</div>
+			</div>
+		</section>
+		<section class="footer-cta">
+			<div class="container">
+				<div class="area-cta">
+					<h2>Vamos Criar<br> Algo Incrível</h2>
+				</div>
+			</div>
+		</section>
+		<section class="footer-cta-botao">
+			<div class="container">
+				<div class="area-cta">
+					<div class="area-cta-bloco">
+					<div class="area-cta-bloco-esquerda">
+						<p>Mais do que uma agência, somos parceiros criativos comprometidos em cultivar conexões<br>entre marcas e pessoas, com foco em construir uma presença digital que inspira e converte.</p>
+					</div>
+					<div class="area-cta-bloco-direita">
+					<a href="https://api.whatsapp.com/send?phone=5511916945159" class="cta-button cta-button-footer">ENTRE EM CONTATO</a>
+					</div>
+					</div>
 				</div>
 			</div>
 		</section>

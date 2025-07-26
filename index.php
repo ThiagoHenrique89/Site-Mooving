@@ -5,9 +5,9 @@ $rotas = [
         'titulo' => 'Mooving | Agência de Marketing Digital e Publicidade | Jundiaí - SP',
         'descricao' => 'Agência de Marketing Digital em Jundiaí, especializada em publicidade, criação de sites, SEO, logotipos e mídias sociais.'
     ],
-    'servicos' => [
-        'titulo' => 'Nossos Serviços | Mooving - Marketing Digital',
-        'descricao' => 'Descubra nossos serviços de marketing digital, branding, gestão de redes sociais, SEO e criação de sites.'
+    'criacao-de-logotipo-identidade-visual' => [
+        'titulo' => 'Criação de Logotipo e Identidade Visual | Mooving',
+        'descricao' => 'Criação de logotipo e identidade visual com foco em branding, impacto e estratégia. Posicione sua marca com a Mooving.'
     ],
     'cases' => [
         'titulo' => 'Cases de Sucesso | Mooving - Resultados Reais',
