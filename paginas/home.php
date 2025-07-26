@@ -146,7 +146,7 @@
 						<p>Mais do que uma agência, somos parceiros criativos comprometidos em cultivar conexões<br>entre marcas e pessoas, com foco em construir uma presença digital que inspira e converte.</p>
 					</div>
 					<div class="area-cta-bloco-direita">
-					<a href="https://api.whatsapp.com/send?phone=5511916945159" class="cta-button cta-button-footer">ENTRE EM CONTATO</a>
+					<a href="https://api.whatsapp.com/send?phone=5511916945159" class="cta-button cta-button-footer">DÊ O PRIMEIRO PASSO</a>
 					</div>
 					</div>
 				</div>
