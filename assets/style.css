@@ -553,7 +553,7 @@ footer .container p{
 
 @media (max-width: 1561px) {
     .cta-button {
-      padding: 15px 25px;
+      padding: 15px 45px;
       font-size: 12px;
       line-height: normal;
       text-align: center;
@@ -567,7 +567,7 @@ footer .container p{
     padding: 0 3px 0 9px;
 }
   .cta-button {
-      padding: 15px 25px;
+      padding: 15px 45px;
       font-size: 12px;
       line-height: normal;
       text-align: center;
@@ -581,7 +581,7 @@ footer .container p{
         flex: 1 1 calc(33.33% - 10px);
     }
       .cta-button {
-      padding: 5px 25px;
+      padding: 5px 35px;
       font-size: 12px;
       line-height: normal;
       text-align: center;
@@ -636,7 +636,7 @@ footer .container p{
       padding: 30px 20px
     }
     .navbar .cta-button {
-      padding: 20px 20px;
+      padding: 20px 35px;
       font-size: 12px;
       line-height: 0;
     }
