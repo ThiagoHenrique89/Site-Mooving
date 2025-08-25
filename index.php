@@ -2,24 +2,32 @@
 // Definição das rotas e seus respectivos títulos e descrições
 $rotas = [
     'home' => [
-        'titulo' => 'Mooving | Agência de Marketing Digital e Publicidade | Jundiaí - SP',
-        'descricao' => 'Agência de Marketing Digital em Jundiaí, especializada em publicidade, criação de sites, SEO, logotipos e mídias sociais.'
+        'titulo' => 'Agência de Marketing Digital e publicidade em Jundiaí | Mooving',
+        'descricao' => 'Mooving é uma agência de marketing digital em Jundiaí, focada em resultados. Criamos sites, logotipos, gerimos tráfego pago, SEO e mídias sociais para o seu negócio.'
     ],
-    'criacao-de-logotipo-identidade-visual' => [
-        'titulo' => 'Criação de Logotipo e Identidade Visual | Mooving',
-        'descricao' => 'Criação de logotipo e identidade visual com foco em branding, impacto e estratégia. Posicione sua marca com a Mooving.'
+    'web-design-criacao-de-sites' => [
+        'titulo' => 'Criação de Sites e Web Design em Jundiaí | Mooving',
+        'descricao' => 'Mooving oferece criação de sites responsivos, e-commerce, landing pages e sites institucionais em Jundiaí. Transforme sua presença online com estilo e resultados.'
     ],
-    'cases' => [
-        'titulo' => 'Cases de Sucesso | Mooving - Resultados Reais',
-        'descricao' => 'Confira cases de sucesso de clientes que aumentaram sua visibilidade com nossa expertise em marketing digital.'
+    'branding-identidade-visual' => [
+        'titulo' => 'Branding e Identidade Visual em Jundiaí | Mooving',
+        'descricao' => 'Agência de branding em Jundiaí especializada na criação de logotipo, identidade visual completa, naming e rebranding. Construa uma marca forte e memorável.'
     ],
-    'sobre' => [
-        'titulo' => 'Sobre Nós | Mooving - Marketing Digital',
-        'descricao' => 'Saiba mais sobre a Mooving, nossa missão, valores e como ajudamos empresas a crescerem no mundo digital.'
+    'gestao-de-midias-sociais' => [
+        'titulo' => 'Gestão de Mídias Sociais em Jundiaí | Mooving',
+        'descricao' => 'Especialistas em gestão de mídias sociais para empresas de Jundiaí. Cuidamos da sua estratégia, criativos e anúncios para gerar engajamento e vendas.'
     ],
-    'contato' => [
-        'titulo' => 'Fale Conosco | Mooving - Agência Digital',
-        'descricao' => 'Entre em contato com nossa equipe e descubra como podemos ajudar a sua empresa a crescer no ambiente digital.'
+    'anuncios-trafego-pago' => [
+        'titulo' => 'Tráfego Pago e Anúncios Online em Jundiaí | Mooving',
+        'descricao' => 'Agência de tráfego pago em Jundiaí. Criamos e otimizamos campanhas de Google Ads e Social Ads (Meta, TikTok, LinkedIn) para gerar leads e aumentar suas vendas.'
+    ],
+    'seo-otimizacao-de-sites' => [
+        'titulo' => 'SEO e Otimização de Sites em Jundiaí | Mooving',
+        'descricao' => 'Especialistas em SEO em Jundiaí. Otimizamos seu site para ranquear no Google, com foco em SEO local, on-page e performance. Seja encontrado por seus clientes.'
+    ],
+    'videos-audiovisual' => [
+        'titulo' => 'Produção de Vídeos em Jundiaí | Mooving',
+        'descricao' => 'Produtora de vídeos em Jundiaí para mídias sociais, vídeos comerciais e institucionais. Criamos conteúdo audiovisual que engaja e transforma sua comunicação.'
     ]
 ];
 

@@ -46,15 +46,18 @@
 
 <body>
 <nav class="navbar">
-    <div class="displayMenu container">
+    <div class="displayMenu container-menu">
 		<div class="logo"><a href="/"><img src="/assets/images/logo-verde.png" alt="Logo"></a></div>
         <div class="barra">
             <div class="menu">
-                <a href="/servicos">SERVIÇOS</a>
-				<a href="/cases">CASES</a>
-				<a href="/sobre">SOBRE</a>
+                <a href="/web-design-criacao-de-sites">CRIAÇÃO DE SITES</a>
+				<a href="/branding-identidade-visual">IDENTIDADE VISUAL</a>
+				<a href="/gestao-de-midias-sociais">MÍDIAS SOCIAIS</a>
+                <a href="/anuncios-trafego-pago">TRÁFEGO PAGO</a>
+                <a href="/seo-otimizacao-de-sites">OTIMIZAÇÃO DE SITES</a>
+                <a href="/videos-audiovisual">AUDIOVISUAL</a>
             </div>
-			<a href="https://api.whatsapp.com/send?phone=5511916945159" class="cta-button">ENTRE EM CONTATO</a>
         </div>
+        <a href="https://api.whatsapp.com/send?phone=5511916945159" class="cta-button">ENTRE EM CONTATO</a>
     </div>
 </nav>
