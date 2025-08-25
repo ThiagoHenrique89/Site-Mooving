@@ -503,6 +503,7 @@ footer .container p{
 .cta-button-footer {
   background-color: #262626;
   color: #1aff45;
+  padding: 25px 45px !important;
 }
 .cta-button-footer:hover {
   background-color: #ffffff;
