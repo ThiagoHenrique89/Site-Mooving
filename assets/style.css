@@ -626,7 +626,7 @@ footer .container p{
     .menu a::after {
     content: '•';
     padding: 0 2px 0 7px;
-    color: #61966c;
+    color: #1aff45;
 }
 .menu a:nth-child(3)::after {
     content: '';
