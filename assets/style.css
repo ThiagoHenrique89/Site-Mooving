@@ -236,9 +236,8 @@ section {
     100% { transform: translate(2px, 2px); }
 }
 .banner {
-    position: relative;
     display: inline-block; /* Ajusta o tamanho ao da imagem */
-    top: 65px;
+    margin-top: 66px;
 }
 
 .banner img {
@@ -512,8 +511,6 @@ footer .container p{
 
 .carrosel-section {
   padding: 0;
-  top: 65px;
-  position: relative;
 }
 
 .carrossel-palavras {
@@ -714,4 +711,4 @@ footer .container {
     row-gap: 35px;
 }
 
-  }
+}
