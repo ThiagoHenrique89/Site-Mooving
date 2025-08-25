@@ -238,7 +238,7 @@ section {
 .banner {
     position: relative;
     display: inline-block; /* Ajusta o tamanho ao da imagem */
-    top: 46px;
+    top: 65px;
 }
 
 .banner img {
@@ -512,7 +512,7 @@ footer .container p{
 
 .carrosel-section {
   padding: 0;
-  top: 46px;
+  top: 65px;
   position: relative;
 }
 
