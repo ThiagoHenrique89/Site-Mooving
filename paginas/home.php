@@ -57,7 +57,7 @@
 						<img src="/assets/images/branding-identidade-visual.jpg" alt="Imagem 1">
 						<h3><span class="light">WEB DESIGN<br></span>CRIAÇÃO DE SITES</h3>
 						<p>
-						Uma marca bem construída não apenas atrai, mas também fideliza, tornando-se reconhecida e desejada.
+						Desenvolvemos sites claros, objetivos, modernos, atrativos e funcionais, aumentando a sua presença online.
 						</p>
 						<p>
 						<nav class="menuCard">
@@ -74,7 +74,7 @@
 						<img src="/assets/images/branding-identidade-visual.jpg" alt="Branding Identidade Visual">
 						<h3><span class="light">BRANDING<br></span>IDENTIDADE VISUAL</h3>
 						<p>
-						Aumentamos vendas e geramos leads, garantindo que seus conteúdos se conectem com seu público.
+						Uma marca bem construída não apenas atrai, mas também fideliza, tornando-se reconhecida e desejada.
 						</p>
 						<nav class="menuCard">
 							<ul>
@@ -89,7 +89,7 @@
 					<a href="/gestao-de-midias-sociais">
 						<img src="/assets/images/branding-identidade-visual.jpg" alt="Gestao Midias Sociais">
 						<h3><span class="light">GESTÃO<br></span>MÍDIAS SOCIAIS</h3>
-						<p>Fidelizar clientes é mais econômico do que conquistar novos. Criamos ações personalizadas e eficientes.
+						<p>Cuidamos das suas redes sociais, aumentando seu engajamento, aproximando e fidelizando clientes.
 						</p>
 						<nav class="menuCard">
 							<ul>
@@ -104,7 +104,9 @@
 					<a href="/anuncios-trafego-pago">
 						<img src="/assets/images/anuncios-trafego-pago.jpg" alt="Anuncios Trafego Pago">
 						<h3><span class="light">ANÚNCIOS<br></span>TRÁFEGO PAGO</h3>
-						<p>Fidelizar clientes é mais econômico do que conquistar novos. Criamos ações personalizadas e eficientes.
+						
+						<p>
+							Aumentamos vendas e geramos leads, garantindo que seus conteúdos se conectem com seu público.
 						</p>
 						<nav class="menuCard">
 							<ul>
@@ -119,7 +121,7 @@
 					<a href="/seo-otimizacao-de-sites">
 						<img src="/assets/images/anuncios-trafego-pago.jpg" alt="Imagem 1">
 						<h3><span class="light">SEO<br></span>OTIMIZAÇÃO DE SITES</h3>
-						<p>Fidelizar clientes é mais econômico do que conquistar novos. Criamos ações personalizadas e eficientes.
+						<p>Seu site nas primeiras páginas do Google de forma orgânica, sem precisar pagar por clique.
 						</p>
 						<nav class="menuCard">
 							<ul>
@@ -134,7 +136,7 @@
 					<a href="/videos-audiovisual">
 						<img src="/assets/images/anuncios-trafego-pago.jpg" alt="Imagem 1">
 						<h3><span class="light">VÍDEOS<br></span>AUDIOVISUAL</h3>
-						<p>Fidelizar clientes é mais econômico do que conquistar novos. Criamos ações personalizadas e eficientes.
+						<p>Criamos vídeos profissionais que dão vida à sua comunicação e fortalecem o conceito e imagem da sua marca.
 						</p>
 						<nav class="menuCard">
 							<ul>
