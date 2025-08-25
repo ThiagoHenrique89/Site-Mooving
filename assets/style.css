@@ -237,7 +237,7 @@ section {
 }
 .banner {
     display: inline-block; /* Ajusta o tamanho ao da imagem */
-    margin-top: 65px;
+    margin-top: 64px;
 }
 
 .banner img {
