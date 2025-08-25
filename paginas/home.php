@@ -54,7 +54,7 @@
 			<div class="cards">
 				<div class="card">
 					<a href="/web-design-criacao-de-sites">
-						<img src="/assets/images/branding-identidade-visual.jpg" alt="Imagem 1">
+						<img src="/assets/images/web-design-criacao-de-sites.jpg" alt="Imagem 1">
 						<h3><span class="light">WEB DESIGN<br></span>CRIAÇÃO DE SITES</h3>
 						<p>
 						Desenvolvemos sites claros, objetivos, modernos, atrativos e funcionais, aumentando a sua presença online.
@@ -87,7 +87,7 @@
 				</div>
 				<div class="card">
 					<a href="/gestao-de-midias-sociais">
-						<img src="/assets/images/branding-identidade-visual.jpg" alt="Gestao Midias Sociais">
+						<img src="/assets/images/gestao-midias-sociais.jpg" alt="Gestao Midias Sociais">
 						<h3><span class="light">GESTÃO<br></span>MÍDIAS SOCIAIS</h3>
 						<p>Cuidamos das suas redes sociais, aumentando seu engajamento, aproximando e fidelizando clientes.
 						</p>
@@ -119,7 +119,7 @@
 				</div>
 				<div class="card">
 					<a href="/seo-otimizacao-de-sites">
-						<img src="/assets/images/anuncios-trafego-pago.jpg" alt="Imagem 1">
+						<img src="/assets/images/seo-otimizacao-de-sites.jpg" alt="Imagem 1">
 						<h3><span class="light">SEO<br></span>OTIMIZAÇÃO DE SITES</h3>
 						<p>Seu site nas primeiras páginas do Google de forma orgânica, sem precisar pagar por clique.
 						</p>
@@ -134,7 +134,7 @@
 				</div>
 				<div class="card">
 					<a href="/videos-audiovisual">
-						<img src="/assets/images/anuncios-trafego-pago.jpg" alt="Imagem 1">
+						<img src="/assets/images/video-audiovisual.jpg" alt="Imagem 1">
 						<h3><span class="light">VÍDEOS<br></span>AUDIOVISUAL</h3>
 						<p>Criamos vídeos profissionais que dão vida à sua comunicação e fortalecem o conceito e imagem da sua marca.
 						</p>
