@@ -237,7 +237,6 @@ section {
 }
 .banner {
     display: inline-block; /* Ajusta o tamanho ao da imagem */
-    margin-top: 64px;
 }
 
 .banner img {
@@ -596,6 +595,9 @@ footer .container p{
     }
     .col {
       flex: 1 1 calc(100% - 10px);
+  }
+    .banner {
+      margin-top: 64px;
   }
   .menu {
       display: list-item;
