@@ -43,13 +43,12 @@
   <!-- Preload Hero Image (LCP) -->
   <link rel="preload" as="image" href="/assets/images/mosaico-header-bg-verde.webp" imagesrcset="/assets/images/mosaico-header-bg-verde-celular.webp 768w, /assets/images/mosaico-header-bg-verde.webp 1200w" imagesizes="100vw" fetchpriority="high">
 
-
 </head>
 
 <body>
   <nav class="navbar">
     <div class="displayMenu container-menu">
-      <div class="logo"><a href="/"><img src="/assets/images/logo-verde.webp" width="150px" height="38px" alt="Logo Mooving"></a></div>
+      <div class="logo"><a href="/"><img src="/assets/images/logo-verde.webp" width="150" height="38" alt="Logo Mooving"></a></div>
       <div class="barra">
         <div class="menu">
           <a href="/web-design-criacao-de-sites">Criação de Sites</a>
