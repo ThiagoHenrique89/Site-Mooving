@@ -43,17 +43,7 @@
   <!-- Preload Hero Image (LCP) -->
   <link rel="preload" as="image" href="/assets/images/mosaico-header-bg-verde.webp" imagesrcset="/assets/images/mosaico-header-bg-verde-celular.webp 768w, /assets/images/mosaico-header-bg-verde.webp 1200w" imagesizes="100vw" fetchpriority="high">
 
-  <!-- CSS crítico inline (só header/menu/hero) -->
-  <style>
-    body { margin:0; font-family:'Poppins', sans-serif; }
-    header { display:flex; }
-    .navbar { display:flex; align-items:center; justify-content:space-between; padding:1rem; }
-    .navbar .menu a { margin:0 0.5rem; text-decoration:none; }
-    .cta-button {     background-color: #1aff45;color: #262626;padding: 25px 45px;border: none;cursor: pointer;border-radius: 5px;height: fit-content;font-weight: 500; }
-    .banner { position:relative; text-align:left; color:#fff; }
-    .banner img { width:100%; height:auto; display:block; }
-    h1 { font-family:'Unbounded',sans-serif; font-size:1.5rem; line-height:1.3; }
-  </style>
+
 </head>
 
 <body>

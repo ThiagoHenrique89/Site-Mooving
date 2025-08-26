@@ -10,10 +10,10 @@
         <img src="/assets/images/footer-logo.webp" alt="Logo Agência Mooving" class="logo-footer" width="120" height="31" loading="lazy">
       </div>
       <div class="coluna-texto">
-        <p>&copy; <?php echo date('Y'); ?> <strong>Agência Mooving</strong><br>Todos os direitos reservados.</p>
+        <p>&copy; <?php echo date('Y'); ?> <strong>Agência Mooving</strong>Todos os direitos reservados.</p>
       </div>
       <div class="coluna-texto">
-        <p><strong>Endereço</strong>: <br>Av Reserva do Japy 165 - Jundiaí/SP</p>
+        <p><strong>Endereço</strong>: Av Reserva do Japy 165 - Jundiaí/SP</p>
       </div>
       <div class="coluna-redes">
         <a href="https://instagram.com/agenciamooving"><img src="/assets/images/icones/instagram.webp" alt="Instagram Mooving" class="icone-rede" width="24" height="24" loading="lazy"></a>
