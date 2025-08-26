@@ -103,7 +103,7 @@ html {
 
 /* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos principais - h1 */
 h1 {
-  font-size: clamp(30px, 5vw, 50px);
+  font-size: 5vw;
   margin-bottom: 20px;
   font-weight: 900; /* Peso extra pesado para maior destaque */
   line-height: 1.2;
@@ -145,7 +145,128 @@ header {
     justify-content: center;
 }
 
+.col {
+  flex: 1;
+  padding: 20px;
+}
 
+section {
+  padding: 35px 0;
+}
+.primeiraSection {
+  padding: 70px 0 35px 0;
+}
+
+.navbar {
+    background-color: #262626;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 15px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+  display: block;
+  text-align: center;
+}
+.displayMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+}
+.menu a:hover, .menu a:active {
+    color: #1aff45;
+}
+.menu a {
+    /* Define o posicionamento relativo para que o pseudo-elemento seja posicionado corretamente */
+    position: relative;
+}
+
+.menu a::after {
+    /* Adiciona a bolinha como conteÃƒÂºdo */
+    content: '•';
+
+    /* Define o espaÃƒÂ§amento entre a bolinha e o texto */
+    padding: 0 13px 0 19px;
+
+    /* Define a cor da bolinha para combinar com o design */
+    color: #1aff45; /* Use a cor que preferir */
+}
+
+.menu a:last-child::after {
+    /* Remove a bolinha do ÃƒÂºltimo item para nÃƒÂ£o quebrar o layout */
+    content: '';
+}
+.cta-button {
+    background-color: #1aff45;
+    color: #262626;
+    padding: 25px 45px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    height: fit-content;
+    font-weight: 500;
+
+}
+.menu a:nth-child(6)::after {
+    content: '';
+    padding: 0;
+}
+.cta-button:hover {
+  background-color: #62966c;
+  color: #ffffff;
+}
+
+.logo img {
+    transition: transform 0.1s ease-in-out;
+}
+
+.logo:hover img {
+    animation: tremor 0.2s ;
+}
+
+@keyframes tremor {
+    0% { transform: translate(0, 0); }
+    25% { transform: translate(-2px, 2px); }
+    50% { transform: translate(2px, -2px); }
+    75% { transform: translate(-2px, -2px); }
+    100% { transform: translate(2px, 2px); }
+}
+.banner {
+    position: relative;
+    display: inline-block; /* Ajusta o tamanho ao da imagem */
+}
+
+.banner img {
+    display: block; 
+    width: 100%; 
+    height: auto;
+}
+
+.banner h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 3vw;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 0;
+    color: #ffffff;
+    width: inherit;
+    padding: 0 30px;
+    max-width: 1200px
+}
+.barra {
+    display: flex;
+    justify-content: space-between;
+}
 
 .cards {
   display: flex;
