@@ -80,14 +80,13 @@ button:focus, input:focus, textarea:focus {
 /* Container padrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o para desktop */
 .container {
     width: 100%;
-    max-width: 1200px; /* Largura mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nima de 1400px para desktop */
-    margin: 0 auto; /* Centraliza o container */
-    padding: 0 20px; /* Padding nas laterais */
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 0 20px; 
 }
 .container-menu {
     width: 100%;
-    max-width: 95vw; /* Largura mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nima de 1400px para desktop */
-    margin: 0 auto; /* Centraliza o container */
+
 }
 
 /* Definindo fontes base para todo o site */
