@@ -47,3 +47,19 @@
 </head>
 
 <body>
+  <nav class="navbar">
+    <div class="displayMenu container-menu">
+      <div class="logo"><a href="/"><img src="/assets/images/logo-verde.webp" width="150" height="38" alt="Logo Mooving"></a></div>
+      <div class="barra">
+        <div class="menu">
+          <a href="/web-design-criacao-de-sites">Criação de Sites</a>
+          <a href="/branding-identidade-visual">Identidade Visual</a>
+          <a href="/gestao-de-midias-sociais">Mídias Sociais</a>
+          <a href="/anuncios-trafego-pago">Tráfego Pago</a>
+          <a href="/seo-otimizacao-de-sites">SEO</a>
+          <a href="/videos-audiovisual">Audiovisual</a>
+        </div>
+      </div>
+      <a href="https://api.whatsapp.com/send?phone=5511916945159" class="cta-button">Entre em Contato</a>
+    </div>
+  </nav>
