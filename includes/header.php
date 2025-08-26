@@ -59,7 +59,7 @@
 <body>
   <nav class="navbar">
     <div class="displayMenu container-menu">
-      <div class="logo"><a href="/"><img src="/assets/images/logo-verde.webp" width="200" height="51" alt="Logo Mooving"></a></div>
+      <div class="logo"><a href="/"><img src="/assets/images/logo-verde.webp" width="150" height="38" alt="Logo Mooving"></a></div>
       <div class="barra">
         <div class="menu">
           <a href="/web-design-criacao-de-sites">Criação de Sites</a>

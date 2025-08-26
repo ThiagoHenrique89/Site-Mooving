@@ -7,7 +7,7 @@
   <footer class="rodape">
     <div class="container">
       <div class="coluna-logo">
-        <img src="/assets/images/footer-logo.webp" alt="Logo Agência Mooving" class="logo-footer" width="150" height="60" loading="lazy">
+        <img src="/assets/images/footer-logo.webp" alt="Logo Agência Mooving" class="logo-footer" width="120" height="31" loading="lazy">
       </div>
       <div class="coluna-texto">
         <p>&copy; <?php echo date('Y'); ?> <strong>Agência Mooving</strong><br>Todos os direitos reservados.</p>

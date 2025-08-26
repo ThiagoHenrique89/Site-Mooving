@@ -60,3 +60,7 @@ RewriteRule ^([^/]+)/?$ index.php?pagina=$1 [L]
   AddOutputFilterByType DEFLATE font/woff
   AddOutputFilterByType DEFLATE font/woff2
 </IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json
+</IfModule>
