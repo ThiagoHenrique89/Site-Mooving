@@ -625,7 +625,7 @@ footer .container p{
       font-size: 12px;
     }
     .menu a::after {
-    content: 'Ã¢â‚¬Â¢';
+    content: '•';
     padding: 0 2px 0 7px;
     color: #1aff45;
 }
