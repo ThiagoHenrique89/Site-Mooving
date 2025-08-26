@@ -287,13 +287,11 @@ section {
 }
 .banner {
     position: relative;
-    display: inline-block;
+    display: inline-block; /* Ajusta o tamanho ao da imagem */
 }
 
 .banner img {
-    display: block;
-    width: 100%; 
-    height: auto;
+
 }
 
 .banner h1 {
