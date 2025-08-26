@@ -1,3 +1,50 @@
+/* Reset de CSS bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡sico */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tipografia */
+body {
+  background-color: #e4e4e4;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400; /* Peso normal */
+  line-height: 1.6;
+  color: #262626;
+  letter-spacing: 1px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Unbounded", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+strong {
+  font-weight: 600 !important
+}
+
+.logo a {
+
+  vertical-align: top;
+  line-height: 1;
+
+}
+
+/* Listas */
+ul, ol {
+ padding: 0 10px;
+}
+
+/* Tabelas */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
 
 
 /* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos principais - h1 */
