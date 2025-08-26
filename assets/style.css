@@ -232,124 +232,104 @@ section {
     animation: tremor 0.2s ;
 }
 
-@keyframes tremor {
-    0% { transform: translate(0, 0); }
-    25% { transform: translate(-2px, 2px); }
-    50% { transform: translate(2px, -2px); }
-    75% { transform: translate(-2px, -2px); }
-    100% { transform: translate(2px, 2px); }
-}
-.banner {
-    position: relative;
-    display: inline-block; /* Ajusta o tamanho ao da imagem */
+
+
+
+/* Layout das colunas */
+.coluna {
+  padding: 10px;
 }
 
-.banner img {
-    display: block;
-    width: 100%; 
-    height: auto;
+.esquerda {
+  width: 33.33%;
 }
 
-.banner h1 {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    font-size: clamp(1.5rem, 3.2vw, 3.7rem);
-    transform: translate(-50%, -50%);
-    color: white;
-    padding: 0;
-    color: #ffffff;
-    width: inherit;
-    padding: 0 30px;
-    max-width: 1200px
+.direita {
+  width: 66.67%;
 }
-.barra {
-    display: flex;
-    justify-content: space-between;
+.direita p {
+  padding-left: 30px;
+  margin-bottom: 0;
 }
 
-.cards {
+/* EstilizaÃƒÂ§ÃƒÂ£o do subtÃƒÂ­tulo */
+.breadcrumb {
+  display: block;
+  font-size: 14px;
+  color: #262626;
+  margin-bottom: 5px;
+}
+.active {
+  color: #1aff45 !important;
+}
+
+.grade-marcas {
   display: flex;
+   /* 3 colunas iguais */
+  gap: 50px; /* espaÃƒÂ§amento entre colunas e linhas */
+  justify-items: center; /* centraliza as imagens horizontalmente */
+  align-items: center;   /* centraliza as imagens verticalmente */
+  align-content: center;
+  justify-content: center;
+}
+
+.grade-marcas img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  height: 25px;
+}
+
+.mbz {
+  margin-bottom: 0 !important;
+}
+
+.artigos {
+  background-color: #ffff;
+  padding: 50px 40px;
+}
+
+.artigos h2{
+  padding-top: 20px;
+}
+
+.artigos h2, .artigos h3 {
+  font-weight: 500 !important;
+}
+
+.secao-intro {
+  padding-top: 70px;
+}
+
+.conteudo-principal {
+  padding-bottom: 70px;
+}
+
+footer .container{
+  display: flex;
+  align-items: center;
+}
+footer .container p{
+  margin-bottom: 0;
+}
+.rodape {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 50px 20px 35px 20px;
+  background-color: white;
   flex-wrap: wrap;
   gap: 20px;
 }
 
-@keyframes borda-animada {
-  0% { background-position: 200% 50%; }
-  100% { background-position: 0% 50%; }
+.rodape p{
+ font-size: 13px;
 }
 
-
-.card {
-  flex: 1 1 calc(33.33% - 20px);
-  background: white;
-  padding: 40px 30px;
-  text-align: left;
-  position: relative;
-  overflow: hidden; /* Evita que o pseudo-elemento ultrapasse os limites */
+.coluna-logo {
+  flex: 1;
+  line-height: 0;
 }
-
-/* Criando a borda animada no topo com ::before */
-.card::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 5px; /* Espessura da borda */
-  background: linear-gradient(90deg, #1aff45, #262626, #1aff45);
-  background-size: 200% 100%;
-  animation: borda-animada 2.5s infinite linear;
-}
-
-.secao-intro .bloco {
-position: relative;
-}
-
-.secao-intro .bloco::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 5px; /* Espessura da borda */
-  background: linear-gradient(90deg, #1aff45, #262626, #1aff45);
-  background-size: 200% 100%;
-  animation: borda-animada 2.5s infinite linear;
-}
-
-
-.card img {
-  width: 100%;
-  height: auto;
-  margin-bottom: 30px;
-}
-
-.menuCard {
-  padding: 0 10px;
-  display: grid;
-  row-gap: 5px;
-}
-.menuCard li{
-  font-weight: 600;
-  font-size: 12.5px;
-}
-.whatsapp-fixo{
-  position: fixed;
-  bottom: 25px;
-  right: 13px;
-  z-index: 9999;
-}
-
-.bloco {
-  display: flex;
-  background-color: white;
-  padding: 30px;
-  margin-bottom: 20px;
-  align-items: center;
-  justify-content: center;
-}
-
 
 .logo-footer {
   max-width: 120px;
