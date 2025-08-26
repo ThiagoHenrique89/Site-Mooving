@@ -270,21 +270,7 @@ section {
   color: #ffffff;
 }
 
-.logo img {
-    transition: transform 0.1s ease-in-out;
-}
 
-.logo:hover img {
-    animation: tremor 0.2s ;
-}
-
-@keyframes tremor {
-    0% { transform: translate(0, 0); }
-    25% { transform: translate(-2px, 2px); }
-    50% { transform: translate(2px, -2px); }
-    75% { transform: translate(-2px, -2px); }
-    100% { transform: translate(2px, 2px); }
-}
 .banner {
     position: relative;
     display: inline-block; /* Ajusta o tamanho ao da imagem */
@@ -295,7 +281,17 @@ section {
 }
 
 .banner h1 {
-
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: clamp(1.5rem, 3.2vw, 3.7rem);
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 0;
+    color: #ffffff;
+    width: inherit;
+    padding: 0 30px;
+    max-width: 1200px
 }
 .barra {
     display: flex;
