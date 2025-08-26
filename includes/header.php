@@ -41,7 +41,7 @@
     </noscript>
 
   <!-- Preload Hero Image (LCP) -->
-  <link rel="preload" as="image" href="/assets/images/mosaico-header-bg-verde.webp" imagesrcset="/assets/images/mosaico-header-bg-verde-celular.webp 768w, /assets/images/mosaico-header-bg-verde.webp 1200w" imagesizes="100vw">
+  <link rel="preload" as="image" href="/assets/images/mosaico-header-bg-verde.webp" imagesrcset="/assets/images/mosaico-header-bg-verde-celular.webp 768w, /assets/images/mosaico-header-bg-verde.webp 1200w" imagesizes="100vw" fetchpriority="high">
 
   <!-- CSS crítico inline (só header/menu/hero) -->
   <style>
