@@ -191,7 +191,7 @@ section {
 
 .menu a::after {
     /* Adiciona a bolinha como conteÃƒÂºdo */
-    content: 'Ã¢â‚¬Â¢';
+    content: '•';
 
     /* Define o espaÃƒÂ§amento entre a bolinha e o texto */
     padding: 0 13px 0 19px;
