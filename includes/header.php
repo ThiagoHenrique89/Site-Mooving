@@ -285,7 +285,16 @@ section {
     75% { transform: translate(-2px, -2px); }
     100% { transform: translate(2px, 2px); }
 }
+.banner {
+    position: relative;
+    display: inline-block; /* Ajusta o tamanho ao da imagem */
+}
 
+.banner img {
+    display: block;
+    width: 100%; 
+    height: auto;
+}
 
 .banner h1 {
     position: absolute;
