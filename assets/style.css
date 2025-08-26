@@ -1,11 +1,3 @@
-/* Reset de CSS bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡sico */
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 /* Tipografia */
 body {
