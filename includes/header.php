@@ -286,8 +286,7 @@ section {
     100% { transform: translate(2px, 2px); }
 }
 .banner {
-    position: relative;
-    display: inline-block; /* Ajusta o tamanho ao da imagem */
+
 }
 
 .banner img {
