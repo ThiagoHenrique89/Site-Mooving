@@ -1,4 +1,4 @@
-/* Reset de CSS bÃƒÂ¡sico */
+/* Reset de CSS bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡sico */
 *,
 *::before,
 *::after {
@@ -59,14 +59,14 @@ a {
   line-height: 0;
 }
 
-/* FormulÃƒÂ¡rios */
+/* FormulÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rios */
 input, textarea, button, select {
   font: inherit;
   border: none;
   background: none;
 }
 
-/* Remover espaÃƒÂ§amento extra em elementos de formataÃƒÂ§ÃƒÂ£o */
+/* Remover espaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§amento extra em elementos de formataÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o */
 button, input[type="button"], input[type="submit"], input[type="reset"], select {
   cursor: pointer;
   background: transparent;
@@ -77,21 +77,21 @@ html {
   -webkit-overflow-scrolling: touch;
 }
 
-/* Remove o estilo padrÃƒÂ£o de botÃƒÂµes */
+/* Remove o estilo padrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o de botÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âµes */
 button:focus, input:focus, textarea:focus {
   outline: none;
 }
 
-/* Container padrÃƒÂ£o para desktop */
+/* Container padrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o para desktop */
 .container {
     width: 100%;
-    max-width: 1200px; /* Largura mÃƒÂ­nima de 1400px para desktop */
+    max-width: 1200px; /* Largura mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nima de 1400px para desktop */
     margin: 0 auto; /* Centraliza o container */
     padding: 0 20px; /* Padding nas laterais */
 }
 .container-menu {
     width: 100%;
-    max-width: 95vw; /* Largura mÃƒÂ­nima de 1400px para desktop */
+    max-width: 95vw; /* Largura mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nima de 1400px para desktop */
     margin: 0 auto; /* Centraliza o container */
 }
 
@@ -101,7 +101,7 @@ html {
 }
 
 
-/* TÃƒÂ­tulos principais - h1 */
+/* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos principais - h1 */
 h1 {
   font-size: clamp(30px, 5vw, 50px);
   margin-bottom: 20px;
@@ -109,31 +109,31 @@ h1 {
   line-height: 1.2;
 }
 
-/* TÃƒÂ­tulos secundÃƒÂ¡rios - h2 */
+/* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos secundÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rios - h2 */
 h2, .tituloServicos {
   font-size: 22px;
   margin-bottom: 20px;
-  font-weight: 800; /* Peso mais pesado para tÃƒÂ­tulos secundÃƒÂ¡rios */
+  font-weight: 800; /* Peso mais pesado para tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos secundÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rios */
   letter-spacing: 1px;
   line-height: 1;
 }
 
-/* TÃƒÂ­tulos menores - h3 */
+/* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos menores - h3 */
 h3 {
   font-size: 18px;
   margin-bottom: 15px;
-  font-weight: 700; /* Peso para subtÃƒÂ­tulos */
+  font-weight: 700; /* Peso para subtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos */
   line-height: 1.1;
   letter-spacing: .5px;
 }
 
-/* ParÃƒÂ¡grafos - p */
+/* ParÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡grafos - p */
 p {
   font-size: 16px;
   line-height: 1.6;
   color: #4d4d4d;
   margin-bottom: 15px;
-  font-weight: 300; /* Peso mais leve para o texto do parÃƒÂ¡grafo */
+  font-weight: 300; /* Peso mais leve para o texto do parÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡grafo */
   letter-spacing: .2px;
 }
 .light {
@@ -190,10 +190,10 @@ section {
 }
 
 .menu a::after {
-    /* Adiciona a bolinha como conteúdo */
-    content: '•';
+    /* Adiciona a bolinha como conteÃƒÂºdo */
+    content: 'Ã¢â‚¬Â¢';
 
-    /* Define o espaçamento entre a bolinha e o texto */
+    /* Define o espaÃƒÂ§amento entre a bolinha e o texto */
     padding: 0 13px 0 19px;
 
     /* Define a cor da bolinha para combinar com o design */
@@ -201,7 +201,7 @@ section {
 }
 
 .menu a:last-child::after {
-    /* Remove a bolinha do último item para não quebrar o layout */
+    /* Remove a bolinha do ÃƒÂºltimo item para nÃƒÂ£o quebrar o layout */
     content: '';
 }
 .cta-button {
@@ -245,8 +245,8 @@ section {
 }
 
 .banner img {
-    display: block; /* Remove espaÃƒÂ§amentos indesejados */
-    width: 100%; /* Ajuste conforme necessÃƒÂ¡rio */
+    display: block; /* Remove espaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§amentos indesejados */
+    width: 100%; /* Ajuste conforme necessÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rio */
     height: auto;
 }
 
@@ -368,7 +368,7 @@ position: relative;
   margin-bottom: 0;
 }
 
-/* Estilização do subtítulo */
+/* EstilizaÃƒÂ§ÃƒÂ£o do subtÃƒÂ­tulo */
 .breadcrumb {
   display: block;
   font-size: 14px;
@@ -380,19 +380,20 @@ position: relative;
 }
 
 .grade-marcas {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr); /* 3 colunas iguais */
-  gap: 50px; /* espaçamento entre colunas e linhas */
+  display: flex;
+   /* 3 colunas iguais */
+  gap: 50px; /* espaÃƒÂ§amento entre colunas e linhas */
   justify-items: center; /* centraliza as imagens horizontalmente */
   align-items: center;   /* centraliza as imagens verticalmente */
-  
+  align-content: center;
+  justify-content: center;
 }
 
 .grade-marcas img {
   max-width: 100%;
   height: auto;
   object-fit: contain;
-  height: 35px;
+  height: 25px;
 }
 
 .mbz {
@@ -546,7 +547,7 @@ footer .container p{
     top: 1vw;
 }
 
-/* Animação fluida */
+/* AnimaÃƒÂ§ÃƒÂ£o fluida */
 @keyframes deslizar {
   0% {
     transform: translateX(0%);
@@ -624,7 +625,7 @@ footer .container p{
       font-size: 12px;
     }
     .menu a::after {
-    content: '•';
+    content: 'Ã¢â‚¬Â¢';
     padding: 0 2px 0 7px;
     color: #1aff45;
 }
@@ -666,7 +667,7 @@ footer .container p{
   .grade-marcas {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* 3 colunas iguais */
-    gap: 50px; /* espaçamento entre colunas e linhas */
+    gap: 50px; /* espaÃƒÂ§amento entre colunas e linhas */
     justify-items: center; /* centraliza as imagens horizontalmente */
     align-items: center;   /* centraliza as imagens verticalmente */
     padding-top: 20px;
