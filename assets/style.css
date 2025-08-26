@@ -558,7 +558,43 @@ footer .container p{
   }
 }
 
+@media (max-width: 1561px) {
+    .cta-button {
+      padding: 15px 45px;
+      font-size: 12px;
+      line-height: normal;
+      text-align: center;
+  }
+}
+@media (max-width: 1465px) {
+    .menu a {
+    font-size: 12px;
+}
+  .menu a::after {
+    padding: 0 3px 0 9px;
+}
+  .cta-button {
+      padding: 15px 45px;
+      font-size: 12px;
+      line-height: normal;
+      text-align: center;
+  }
+}
+  @media (max-width: 1024px) {
+      .container {
+        padding: 0 15px; 
+      }
+      .col {
+        flex: 1 1 calc(33.33% - 10px);
+    }
+      .cta-button {
+      padding: 5px 35px;
+      font-size: 12px;
+      line-height: normal;
+      text-align: center;
+  }
 
+  }
 
   @media (max-width: 768px) {
     .container {
