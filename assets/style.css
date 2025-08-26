@@ -1,3 +1,150 @@
+/* Reset de CSS bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡sico */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tipografia */
+body {
+  background-color: #e4e4e4;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400; /* Peso normal */
+  line-height: 1.6;
+  color: #262626;
+  letter-spacing: 1px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Unbounded", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+strong {
+  font-weight: 600 !important
+}
+
+.logo a {
+
+  vertical-align: top;
+  line-height: 1;
+
+}
+
+/* Listas */
+ul, ol {
+ padding: 0 10px;
+}
+
+/* Tabelas */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Imagens */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: inherit;
+  letter-spacing: .2px;
+  line-height: 0;
+}
+
+/* FormulÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rios */
+input, textarea, button, select {
+  font: inherit;
+  border: none;
+  background: none;
+}
+
+/* Remover espaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§amento extra em elementos de formataÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o */
+button, input[type="button"], input[type="submit"], input[type="reset"], select {
+  cursor: pointer;
+  background: transparent;
+}
+
+/* Scrollbars */
+html {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Remove o estilo padrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o de botÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âµes */
+button:focus, input:focus, textarea:focus {
+  outline: none;
+}
+
+/* Container padrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o para desktop */
+.container {
+    width: 100%;
+    max-width: 1200px; /* Largura mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nima de 1400px para desktop */
+    margin: 0 auto; /* Centraliza o container */
+    padding: 0 20px; /* Padding nas laterais */
+}
+.container-menu {
+    width: 100%;
+    max-width: 95vw; /* Largura mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nima de 1400px para desktop */
+    margin: 0 auto; /* Centraliza o container */
+}
+
+/* Definindo fontes base para todo o site */
+html {
+  font-size: 16px; /* Base para 1rem = 16px */
+}
+
+
+/* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos principais - h1 */
+h1 {
+  font-size: clamp(30px, 5vw, 50px);
+  margin-bottom: 20px;
+  font-weight: 900; /* Peso extra pesado para maior destaque */
+  line-height: 1.2;
+}
+
+/* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos secundÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rios - h2 */
+h2, .tituloServicos {
+  font-size: 22px;
+  margin-bottom: 20px;
+  font-weight: 800; /* Peso mais pesado para tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos secundÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rios */
+  letter-spacing: 1px;
+  line-height: 1;
+}
+
+/* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos menores - h3 */
+h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: 700; /* Peso para subtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos */
+  line-height: 1.1;
+  letter-spacing: .5px;
+}
+
+/* ParÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡grafos - p */
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #4d4d4d;
+  margin-bottom: 15px;
+  font-weight: 300; /* Peso mais leve para o texto do parÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡grafo */
+  letter-spacing: .2px;
+}
+.light {
+  font-weight: 300;
+}
+  
+header {
+    display: flex;
+    justify-content: center;
+}
+
 
 
 .cards {
