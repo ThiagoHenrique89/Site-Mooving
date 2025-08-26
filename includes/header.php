@@ -40,9 +40,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&family=Poppins:wght@100..900&display=swap" rel="stylesheet">
     </noscript>
 
-  <!-- Preload Hero Image (LCP) -->
-  <link rel="preload" as="image" href="/assets/images/mosaico-header-bg-verde.webp" imagesrcset="/assets/images/mosaico-header-bg-verde-celular.webp 768w, /assets/images/mosaico-header-bg-verde.webp 1200w" imagesizes="100vw" fetchpriority="high">
-
 </head>
 
 <body>
