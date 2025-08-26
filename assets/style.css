@@ -103,7 +103,7 @@ html {
 
 /* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos principais - h1 */
 h1 {
-  font-size: 5vw;
+  font-size: clamp(30px, 5vw, 50px);
   margin-bottom: 20px;
   font-weight: 900; /* Peso extra pesado para maior destaque */
   line-height: 1.2;
@@ -245,7 +245,7 @@ section {
 }
 
 .banner img {
-    display: block; 
+    display: block;
     width: 100%; 
     height: auto;
 }
@@ -254,7 +254,7 @@ section {
     position: absolute;
     top: 50%;
     left: 50%;
-    font-size: 3.2vw;
+    font-size: clamp(1.5rem, 3.2vw, 3.7rem);
     transform: translate(-50%, -50%);
     color: white;
     padding: 0;
@@ -447,106 +447,7 @@ footer .container p{
   line-height: 0;
 }
 
-.logo-footer {
-  max-width: 120px;
-  height: auto;
-}
 
-.coluna-texto {
-  flex: 1;
-  min-width: 200px;
-  font-size: 14px;
-}
-
-.coluna-redes {
-  min-width: 150px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-}
-
-.icone-rede {
-
-  transition: opacity 0.3s;
-}
-
-.icone-rede:hover {
-  opacity: 0.6;
-} 
-
-
-.area-cta h2 {
-  font-size: 8.9em;
-  text-align: center;
-}
-.area-cta-bloco {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
- 
-}
-.area-cta-bloco-esquerda {
-  width: 70%;
-}
-.area-cta-bloco-esquerda p {
-  margin-bottom: 0;
-  font-weight: 600;
-}
-.area-cta-bloco-direita {
-  text-align: end;
-  width: 30%;
-}
-
-.footer-cta {
-    padding: 0px 0 50px 0 !important;
-}
-
-.footer-cta-botao {
-  background-color: #1aff45;
-  padding: 60px 20px;
-}
-.cta-button-footer {
-  background-color: #262626 !important;
-  color: #1aff45 !important;
-  padding: 25px 45px !important;
-}
-
-.cta-button-footer:hover {
-  background-color: #ffffff !important;
-  color: #262626 !important;
-}
-
-.carrosel-section {
-  padding: 0;
-}
-
-.carrossel-palavras {
-  overflow: hidden;
-  width: 100%;
-  background-color: #1aff45;
-  padding: 30px 0;
-}
-
-.conteudo-carrossel {
-  display: flex;
-  width: max-content;
-  animation: deslizar 100s linear infinite;
-
-}
-
-.conteudo-carrossel h2 {
-  font-size: 5vw;
-  font-weight: bold;
-  color: #262626;
-  white-space: nowrap;
-  margin: 0;
-}
-
-.conteudo-carrossel span {
-    margin-right: 1vw;
-    position: relative;
-    top: 1vw;
-}
 
 /* AnimaÃƒÂ§ÃƒÂ£o fluida */
 @keyframes deslizar {
