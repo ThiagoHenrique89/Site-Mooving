@@ -47,7 +47,8 @@ table {
 
 /* Imagens */
 img {
-
+ width: 100%;
+ height: auto;
 }
 
 /* Links */
