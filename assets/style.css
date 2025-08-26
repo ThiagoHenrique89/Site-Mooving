@@ -239,7 +239,6 @@ section {
     color: white;
     padding: 0;
     color: #ffffff;
-    width: inherit;
     padding: 0 30px;
     max-width: 1200px
 }
@@ -291,7 +290,6 @@ position: relative;
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
   height: 5px; /* Espessura da borda */
   background: linear-gradient(90deg, #1aff45, #262626, #1aff45);
   background-size: 200% 100%;
