@@ -1,4 +1,3 @@
-/* Reset de CSS bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡sico */
 *,
 *::before,
 *::after {
@@ -12,15 +11,12 @@ body {
   background-color: #e4e4e4;
   font-family: 'Poppins', sans-serif;
   font-weight: 400; /* Peso normal */
-  line-height: 1.6;
   color: #262626;
   letter-spacing: 1px;
 }
 
 h1,h2,h3,h4,h5,h6 {
   font-family: "Unbounded", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
 }
 
 strong {
@@ -29,20 +25,12 @@ strong {
 
 .logo a {
 
-  vertical-align: top;
-  line-height: 1;
 
 }
 
 /* Listas */
 ul, ol {
  padding: 0 10px;
-}
-
-/* Tabelas */
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
 }
 
 
@@ -54,14 +42,13 @@ a {
   line-height: 0;
 }
 
-/* FormulÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rios */
 input, textarea, button, select {
   font: inherit;
   border: none;
   background: none;
 }
 
-/* Remover espaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§amento extra em elementos de formataÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o */
+
 button, input[type="button"], input[type="submit"], input[type="reset"], select {
   cursor: pointer;
   background: transparent;
@@ -79,14 +66,13 @@ button:focus, input:focus, textarea:focus {
 
 /* Container padrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o para desktop */
 .container {
-    width: 100%;
     max-width: 1200px; 
     margin: 0 auto; 
     padding: 0 20px; 
 }
 .container-menu {
-    width: 100%;
-
+    max-width: 95vw; /* Largura mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nima de 1400px para desktop */
+    margin: 0 auto; /* Centraliza o container */
 }
 
 /* Definindo fontes base para todo o site */
