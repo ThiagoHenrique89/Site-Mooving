@@ -51,99 +51,88 @@
 			</div>
 			<div class="cards">
 				<div class="card">
-					<a href="/web-design-criacao-de-sites">
-						<img src="/assets/images/web-design-criacao-de-sites.webp" width="313" height="313" alt="Imagem 1">
-						<h3><span class="light">WEB DESIGN<br></span>CRIAÇÃO DE SITES</h3>
-						<p>
+					<img src="/assets/images/web-design-criacao-de-sites.webp" width="313" height="313" alt="Imagem 1">
+					<h3><span class="light">WEB DESIGN<br></span>CRIAÇÃO DE SITES</h3>
+					<p>
 						Desenvolvemos sites claros, objetivos, modernos, atrativos e funcionais, aumentando a sua presença online.
-						</p>
-						<p>
-						<nav class="menuCard">
-							<ul>
-								<li><a href="#">E-COMMERCE / LOJA VIRTUAL</a></li>
-								<li><a href="#">LANDING PAGE</a></li>
-								<li><a href="#">SITE INSTITUCIONAL / SITE DINÂMICO</a></li>
-							</ul>
-						</nav>
-					</a>
+					</p>
+					<nav class="menuCard">
+						<ul>
+							<li>E-COMMERCE / LOJA VIRTUAL</li>
+							<li>LANDING PAGE</li>
+							<li>SITE INSTITUCIONAL / SITE DINÂMICO</li>
+						</ul>
+					</nav>
 				</div>
 				<div class="card">
-					<a href="/branding-identidade-visual">
-						<img src="/assets/images/branding-identidade-visual.webp" width="313" height="313" alt="Branding Identidade Visual">
-						<h3><span class="light">BRANDING<br></span>IDENTIDADE VISUAL</h3>
-						<p>
+					<img src="/assets/images/branding-identidade-visual.webp" width="313" height="313" alt="Branding Identidade Visual">
+					<h3><span class="light">BRANDING<br></span>IDENTIDADE VISUAL</h3>
+					<p>
 						Uma marca bem construída não apenas atrai, mas também fideliza, tornando-se reconhecida e desejada.
-						</p>
-						<nav class="menuCard">
-							<ul>
-								<li><a href="#">LOGOTIPO + IDENTIDADE VISUAL</a></li>
-								<li><a href="#">REBRANDING</a></li>
-								<li><a href="#">NAMING – METODOLOGIA INTERNA</a></li>
-							</ul>
-						</nav>
-					</a>
+					</p>
+					<nav class="menuCard">
+						<ul>
+							<li>LOGOTIPO + IDENTIDADE VISUAL</li>
+							<li>REBRANDING</li>
+							<li>NAMING – METODOLOGIA INTERNA</li>
+						</ul>
+					</nav>
 				</div>
 				<div class="card">
-					<a href="/gestao-de-midias-sociais">
-						<img src="/assets/images/gestao-midias-sociais.webp" width="313" height="313" alt="Gestao Midias Sociais">
-						<h3><span class="light">GESTÃO<br></span>MÍDIAS SOCIAIS</h3>
-						<p>Cuidamos das suas redes sociais, aumentando seu engajamento, aproximando e fidelizando clientes.
-						</p>
-						<nav class="menuCard">
-							<ul>
-								<li><a href="#">CRIATIVOS PARA MÍDIAS SOCIAIS</a></li>
-								<li><a href="#">GERENCIAMENTO DE ANÚNCIOS</a></li>
-								<li><a href="#">PLANEJAMENTO E ESTRATÉGIA</a></li>
-							</ul>
-						</nav>
-					</a>
+					<img src="/assets/images/gestao-midias-sociais.webp" width="313" height="313" alt="Gestao Midias Sociais">
+					<h3><span class="light">GESTÃO<br></span>MÍDIAS SOCIAIS</h3>
+					<p>
+						Cuidamos das suas redes sociais, aumentando seu engajamento, aproximando e fidelizando clientes.
+					</p>
+					<nav class="menuCard">
+						<ul>
+							<li>CRIATIVOS PARA MÍDIAS SOCIAIS</li>
+							<li>GERENCIAMENTO DE ANÚNCIOS</li>
+							<li>PLANEJAMENTO E ESTRATÉGIA</li>
+						</ul>
+					</nav>
 				</div>
 				<div class="card">
-					<a href="/anuncios-trafego-pago">
-						<img src="/assets/images/anuncios-trafego-pago.webp" width="313" height="313" alt="Anuncios Trafego Pago">
-						<h3><span class="light">ANÚNCIOS<br></span>TRÁFEGO PAGO</h3>
-						
-						<p>
-							Aumentamos vendas e geramos leads, garantindo que seus conteúdos se conectem com seu público.
-						</p>
-						<nav class="menuCard">
-							<ul>
-								<li><a href="#">GOOGLE ADS</a></li>
-								<li><a href="#">SOCIAL ADS: META, TIKTOK, LINKEDIN</a></li>
-								<li><a href="#">CAMPANHAS 360º</a></li>
-							</ul>
-						</nav>
-					</a>
+					<img src="/assets/images/anuncios-trafego-pago.webp" width="313" height="313" alt="Anuncios Trafego Pago">
+					<h3><span class="light">ANÚNCIOS<br></span>TRÁFEGO PAGO</h3>
+					<p>
+						Aumentamos vendas e geramos leads, garantindo que seus conteúdos se conectem com seu público.
+					</p>
+					<nav class="menuCard">
+						<ul>
+							<li>GOOGLE ADS</li>
+							<li>SOCIAL ADS: META, TIKTOK, LINKEDIN</li>
+							<li>CAMPANHAS 360º</li>
+						</ul>
+					</nav>
 				</div>
 				<div class="card">
-					<a href="/seo-otimizacao-de-sites">
-						<img src="/assets/images/seo-otimizacao-de-sites.webp" width="313" height="313" alt="Imagem 1">
-						<h3><span class="light">SEO<br></span>OTIMIZAÇÃO DE SITES</h3>
-						<p>Seu site nas primeiras páginas do Google de forma orgânica, sem precisar pagar por clique.
-						</p>
-						<nav class="menuCard">
-							<ul>
-								<li><a href="#">SEO ON-PAGE (CONTEÚDO)</a></li>
-								<li><a href="#">SEO INDEXAÇÃO E PERFORMANCE</a></li>
-								<li><a href="#">SEO LOCAL</a></li>
-							</ul>
-						</nav>
-					</a>
+					<img src="/assets/images/seo-otimizacao-de-sites.webp" width="313" height="313" alt="Imagem 1">
+					<h3><span class="light">SEO<br></span>OTIMIZAÇÃO DE SITES</h3>
+					<p>
+						Seu site nas primeiras páginas do Google de forma orgânica, sem precisar pagar por clique.
+					</p>
+					<nav class="menuCard">
+						<ul>
+							<li>SEO ON-PAGE (CONTEÚDO)</li>
+							<li>SEO INDEXAÇÃO E PERFORMANCE</li>
+							<li>SEO LOCAL</li>
+						</ul>
+					</nav>
 				</div>
 				<div class="card">
-					<a href="/videos-audiovisual">
-						<img src="/assets/images/video-audiovisual.webp" width="313" height="313"alt="Imagem 1">
-						<h3><span class="light">VÍDEOS<br></span>AUDIOVISUAL</h3>
-						<p>Criamos vídeos profissionais que dão vida à sua comunicação e fortalecem o conceito e imagem da sua marca.
-						</p>
-						<nav class="menuCard">
-							<ul>
-								<li><a href="#">VÍDEO PARA MÍDIAS SOCIAIS</a></li>
-								<li><a href="#">VÍDEO COMERCIAL (PROPAGANDA)</a></li>
-								<li><a href="#">VÍDEO INSTITUCIONAL (APRESENTAÇÃO)</a></li>
-							</ul>
-						</nav>
-					</a>
+					<img src="/assets/images/video-audiovisual.webp" width="313" height="313" alt="Imagem 1">
+					<h3><span class="light">VÍDEOS<br></span>AUDIOVISUAL</h3>
+					<p>
+						Criamos vídeos profissionais que dão vida à sua comunicação e fortalecem o conceito e imagem da sua marca.
+					</p>
+					<nav class="menuCard">
+						<ul>
+							<li>VÍDEO PARA MÍDIAS SOCIAIS</li>
+							<li>VÍDEO COMERCIAL (PROPAGANDA)</li>
+							<li>VÍDEO INSTITUCIONAL (APRESENTAÇÃO)</li>
+						</ul>
+					</nav>
 				</div>
 			</div>
 		</section>
