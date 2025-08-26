@@ -45,33 +45,34 @@ table {
   border-spacing: 0;
 }
 
-/* Imagens */
-img {
-  max-width: 100%;
-  height: auto;
+
+/* Scrollbars */
+html {
+  -webkit-overflow-scrolling: touch;
 }
 
-/* Links */
-a {
-  text-decoration: none;
-  color: inherit;
-  letter-spacing: .2px;
-  line-height: 0;
+/* Remove o estilo padrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o de botÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Âµes */
+button:focus, input:focus, textarea:focus {
+  outline: none;
 }
 
-/* FormulÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rios */
-input, textarea, button, select {
-  font: inherit;
-  border: none;
-  background: none;
+/* Container padrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o para desktop */
+.container {
+    width: 100%;
+    max-width: 1200px; /* Largura mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nima de 1400px para desktop */
+    margin: 0 auto; /* Centraliza o container */
+    padding: 0 20px; /* Padding nas laterais */
+}
+.container-menu {
+    width: 100%;
+    max-width: 95vw; /* Largura mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­nima de 1400px para desktop */
+    margin: 0 auto; /* Centraliza o container */
 }
 
-/* Remover espaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§amento extra em elementos de formataÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o */
-button, input[type="button"], input[type="submit"], input[type="reset"], select {
-  cursor: pointer;
-  background: transparent;
+/* Definindo fontes base para todo o site */
+html {
+  font-size: 16px; /* Base para 1rem = 16px */
 }
-
 
 
 /* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos principais - h1 */
