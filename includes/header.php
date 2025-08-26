@@ -270,21 +270,6 @@ section {
   color: #ffffff;
 }
 
-.logo img {
-    transition: transform 0.1s ease-in-out;
-}
-
-.logo:hover img {
-    animation: tremor 0.2s ;
-}
-
-@keyframes tremor {
-    0% { transform: translate(0, 0); }
-    25% { transform: translate(-2px, 2px); }
-    50% { transform: translate(2px, -2px); }
-    75% { transform: translate(-2px, -2px); }
-    100% { transform: translate(2px, 2px); }
-}
 .banner {
     position: relative;
     display: inline-block; /* Ajusta o tamanho ao da imagem */
