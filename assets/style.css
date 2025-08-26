@@ -15,12 +15,14 @@ body {
   line-height: 1.6;
   color: #262626;
   letter-spacing: 1px;
+  font-display: swap
 }
 
 h1,h2,h3,h4,h5,h6 {
   font-family: "Unbounded", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  font-display: swap
 }
 
 strong {
@@ -242,26 +244,27 @@ section {
 .banner {
     position: relative;
     display: inline-block; /* Ajusta o tamanho ao da imagem */
+    min-height: 800px;
 }
 
 .banner img {
-    display: block; /* Remove espaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§amentos indesejados */
-    width: 100%; /* Ajuste conforme necessÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rio */
+    aspect-ratio: 1920 / 800; /* largura / altura da imagem original */
+    width: 100%;
     height: auto;
+    display: block;
 }
 
 .banner h1 {
+    font-size: 3.2vw;
+    color: #ffffff;
+    padding: 0 30px;
     position: absolute;
     top: 50%;
     left: 50%;
-    font-size: clamp(1.5rem, 3.2vw, 3.7rem);
     transform: translate(-50%, -50%);
-    color: white;
-    padding: 0;
-    color: #ffffff;
     width: inherit;
-    padding: 0 30px;
-    max-width: 1200px
+    max-width: 1200px;
+    
 }
 .barra {
     display: flex;
@@ -320,9 +323,9 @@ position: relative;
 
 
 .card img {
+  aspect-ratio: 1 / 1; /* imagens quadradas */
   width: 100%;
   height: auto;
-  margin-bottom: 30px;
 }
 
 .menuCard {
@@ -390,10 +393,8 @@ position: relative;
 }
 
 .grade-marcas img {
-  max-width: 100%;
+  aspect-ratio: 86 / 25; /* exemplo da maior marca */
   height: auto;
-  object-fit: contain;
-  height: 25px;
 }
 
 .mbz {
@@ -521,10 +522,11 @@ footer .container p{
 }
 
 .carrossel-palavras {
+  height: 10vw;
   overflow: hidden;
   width: 100%;
   background-color: #1aff45;
-  padding: 30px 0;
+
 }
 
 .conteudo-carrossel {
