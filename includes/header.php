@@ -26,7 +26,7 @@
   <meta name="twitter:image" content="https://www.mooving.com.br/assets/ico/og-twitter.jpg">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="/assets/ico/favicon.webp">
+  <link rel="shortcut icon" href="/assets/ico/favicon.jpg">
 
   <!-- CSS principal (não bloqueante) -->
   <link rel="preload" href="/assets/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
