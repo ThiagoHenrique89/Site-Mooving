@@ -159,12 +159,12 @@
 				</div>
 				<div class="coluna direita">
 				<div class="grade-marcas">
-					<img src="/assets/images/marcas/marca1.jpg" alt="Marca 1">
-					<img src="/assets/images/marcas/marca2.jpg" alt="Marca 2">
-					<img src="/assets/images/marcas/marca3.jpg" alt="Marca 3">
 					<img src="/assets/images/marcas/marca4.jpg" alt="Marca 4">
-					<img src="/assets/images/marcas/marca5.jpg" alt="Marca 5">
+					<img src="/assets/images/marcas/marca2.jpg" alt="Marca 2">
+					<img src="/assets/images/marcas/marca1.jpg" alt="Marca 1">
 					<img src="/assets/images/marcas/marca6.jpg" alt="Marca 6">
+					<img src="/assets/images/marcas/marca7.jpg" alt="Marca 3">
+					<img src="/assets/images/marcas/marca5.jpg" alt="Marca 5">
 				</div>
 				</div>
 			</div>
