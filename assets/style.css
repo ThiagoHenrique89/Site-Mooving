@@ -385,7 +385,7 @@ position: relative;
 }
 
 .grade-marcas img {
-  max-width: 100%;
+
   height: auto;
   object-fit: contain;
   height: 25px;
@@ -673,7 +673,7 @@ footer .container p{
     margin-bottom: 0;
 }
 .grade-marcas img {
-  max-width: 100px;
+
 }
 .area-cta h2 {
     font-size: 11vw;
