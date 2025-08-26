@@ -9,7 +9,7 @@
       </div>
     </div>
   </header>
-<main>
+<main style="display:none">
     <article>
 		<section class="carrosel-section">
 		<div class="carrossel-palavras">
