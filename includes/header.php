@@ -30,7 +30,7 @@
 	<meta property="og:image:alt" content="Imagem otimizada para Instagram">
     
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/assets/ico/favicon.png">
+    <link rel="shortcut icon" href="/assets/ico/favicon.webp">
 
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="/assets/style.css">
@@ -47,7 +47,7 @@
 <body>
 <nav class="navbar">
     <div class="displayMenu container-menu">
-		<div class="logo"><a href="/"><img src="/assets/images/logo-verde.png" alt="Logo"></a></div>
+		<div class="logo"><a href="/"><img src="/assets/images/logo-verde.webp" alt="Logo"></a></div>
         <div class="barra">
             <div class="menu">
                 <a href="/web-design-criacao-de-sites">CRIAÇÃO DE SITES</a>

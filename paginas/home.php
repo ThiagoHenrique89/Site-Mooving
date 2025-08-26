@@ -2,9 +2,9 @@
 		<div class="banner">
 			<picture>
 				<!-- Imagem em telas menores (até 768px) --->
-				<source srcset="/assets/images/mosaico-header-bg-verde-celular.jpg" media="(max-width: 768px)">
+				<source srcset="/assets/images/mosaico-header-bg-verde-celular.webp" media="(max-width: 768px)">
 				<!-- Imagem padrão para telas maiores -->
-				<img src="/assets/images/mosaico-header-bg-verde.jpg" alt="Imagem Header">
+				<img src="/assets/images/mosaico-header-bg-verde.webp" alt="Imagem Header">
 			</picture>
 			<div class="container">
 				<h1 class="light">Somos uma <strong>agência de marketing digital em Jundiaí</strong> especializada em <strong>publicidade</strong> e <strong>propaganda</strong>, <strong>conectamos marca</strong> e <strong>cliente</strong>.</h1>
@@ -54,7 +54,7 @@
 			<div class="cards">
 				<div class="card">
 					<a href="/web-design-criacao-de-sites">
-						<img src="/assets/images/web-design-criacao-de-sites.jpg" alt="Imagem 1">
+						<img src="/assets/images/web-design-criacao-de-sites.webp" alt="Imagem 1">
 						<h3><span class="light">WEB DESIGN<br></span>CRIAÇÃO DE SITES</h3>
 						<p>
 						Desenvolvemos sites claros, objetivos, modernos, atrativos e funcionais, aumentando a sua presença online.
@@ -71,7 +71,7 @@
 				</div>
 				<div class="card">
 					<a href="/branding-identidade-visual">
-						<img src="/assets/images/branding-identidade-visual.jpg" alt="Branding Identidade Visual">
+						<img src="/assets/images/branding-identidade-visual.webp" alt="Branding Identidade Visual">
 						<h3><span class="light">BRANDING<br></span>IDENTIDADE VISUAL</h3>
 						<p>
 						Uma marca bem construída não apenas atrai, mas também fideliza, tornando-se reconhecida e desejada.
@@ -87,7 +87,7 @@
 				</div>
 				<div class="card">
 					<a href="/gestao-de-midias-sociais">
-						<img src="/assets/images/gestao-midias-sociais.jpg" alt="Gestao Midias Sociais">
+						<img src="/assets/images/gestao-midias-sociais.webp" alt="Gestao Midias Sociais">
 						<h3><span class="light">GESTÃO<br></span>MÍDIAS SOCIAIS</h3>
 						<p>Cuidamos das suas redes sociais, aumentando seu engajamento, aproximando e fidelizando clientes.
 						</p>
@@ -102,7 +102,7 @@
 				</div>
 				<div class="card">
 					<a href="/anuncios-trafego-pago">
-						<img src="/assets/images/anuncios-trafego-pago.jpg" alt="Anuncios Trafego Pago">
+						<img src="/assets/images/anuncios-trafego-pago.webp" alt="Anuncios Trafego Pago">
 						<h3><span class="light">ANÚNCIOS<br></span>TRÁFEGO PAGO</h3>
 						
 						<p>
@@ -119,7 +119,7 @@
 				</div>
 				<div class="card">
 					<a href="/seo-otimizacao-de-sites">
-						<img src="/assets/images/seo-otimizacao-de-sites.jpg" alt="Imagem 1">
+						<img src="/assets/images/seo-otimizacao-de-sites.webp" alt="Imagem 1">
 						<h3><span class="light">SEO<br></span>OTIMIZAÇÃO DE SITES</h3>
 						<p>Seu site nas primeiras páginas do Google de forma orgânica, sem precisar pagar por clique.
 						</p>
@@ -134,7 +134,7 @@
 				</div>
 				<div class="card">
 					<a href="/videos-audiovisual">
-						<img src="/assets/images/video-audiovisual.jpg" alt="Imagem 1">
+						<img src="/assets/images/video-audiovisual.webp" alt="Imagem 1">
 						<h3><span class="light">VÍDEOS<br></span>AUDIOVISUAL</h3>
 						<p>Criamos vídeos profissionais que dão vida à sua comunicação e fortalecem o conceito e imagem da sua marca.
 						</p>
@@ -159,12 +159,12 @@
 				</div>
 				<div class="coluna direita">
 				<div class="grade-marcas">
-					<img src="/assets/images/marcas/marca4.jpg" alt="Marca 4">
-					<img src="/assets/images/marcas/marca2.jpg" alt="Marca 2">
-					<img src="/assets/images/marcas/marca1.jpg" alt="Marca 1">
-					<img src="/assets/images/marcas/marca6.jpg" alt="Marca 6">
-					<img src="/assets/images/marcas/marca7.jpg" alt="Marca 3">
-					<img src="/assets/images/marcas/marca5.jpg" alt="Marca 5">
+					<img src="/assets/images/marcas/marca4.webp" alt="Marca 4">
+					<img src="/assets/images/marcas/marca2.webp" alt="Marca 2">
+					<img src="/assets/images/marcas/marca1.webp" alt="Marca 1">
+					<img src="/assets/images/marcas/marca6.webp" alt="Marca 6">
+					<img src="/assets/images/marcas/marca7.webp" alt="Marca 3">
+					<img src="/assets/images/marcas/marca5.webp" alt="Marca 5">
 				</div>
 				</div>
 			</div>

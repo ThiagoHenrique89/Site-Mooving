@@ -498,7 +498,7 @@ footer .container p{
 }
 
 .footer-cta {
-  padding-bottom: 70px;
+    padding: 0px 0 50px 0 !important;
 }
 
 .footer-cta-botao {
@@ -711,7 +711,7 @@ footer .container {
 
 }
 .footer-cta {
-    padding: 0 0 30px 0;
+    padding: 0 0 30px 0 !important;
 }
 .area-cta-bloco {
     row-gap: 35px;
