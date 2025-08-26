@@ -297,7 +297,17 @@ section {
 }
 
 .banner h1 {
-
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: clamp(1.5rem, 3.2vw, 3.7rem);
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 0;
+    color: #ffffff;
+    width: inherit;
+    padding: 0 30px;
+    max-width: 1200px
 }
 .barra {
     display: flex;
