@@ -268,7 +268,11 @@ section {
     justify-content: space-between;
 }
 
-
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
 
 @keyframes borda-animada {
   0% { background-position: 200% 50%; }
@@ -276,6 +280,27 @@ section {
 }
 
 
+.card {
+  flex: 1 1 calc(33.33% - 20px);
+  background: white;
+  padding: 40px 30px;
+  text-align: left;
+  position: relative;
+  overflow: hidden; /* Evita que o pseudo-elemento ultrapasse os limites */
+}
+
+/* Criando a borda animada no topo com ::before */
+.card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5px; /* Espessura da borda */
+  background: linear-gradient(90deg, #1aff45, #262626, #1aff45);
+  background-size: 200% 100%;
+  animation: borda-animada 2.5s infinite linear;
+}
 
 .secao-intro .bloco {
 position: relative;
@@ -294,7 +319,21 @@ position: relative;
 }
 
 
+.card img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
 
+.menuCard {
+  padding: 0 10px;
+  display: grid;
+  row-gap: 5px;
+}
+.menuCard li{
+  font-weight: 600;
+  font-size: 12.5px;
+}
 .whatsapp-fixo{
   position: fixed;
   bottom: 25px;
@@ -611,7 +650,9 @@ footer .container p{
     .marcas h3 {
       text-align: center;
     }
-
+    .card {
+      flex: 1 1 100%;
+    }
     html {
     font-size: 18px; /* Para telas grandes, define 1rem como 18px */
     }
