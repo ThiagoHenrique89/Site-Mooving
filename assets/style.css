@@ -506,13 +506,14 @@ footer .container p{
   padding: 60px 20px;
 }
 .cta-button-footer {
-  background-color: #262626;
-  color: #1aff45;
+  background-color: #262626 !important;
+  color: #1aff45 !important;
   padding: 25px 45px !important;
 }
+
 .cta-button-footer:hover {
-  background-color: #ffffff;
-  color: #262626;;
+  background-color: #ffffff !important;
+  color: #262626 !important;
 }
 
 .carrosel-section {
