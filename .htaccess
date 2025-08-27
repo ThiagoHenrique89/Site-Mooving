@@ -45,7 +45,7 @@ RewriteRule ^([^/]+)/?$ index.php?pagina=$1 [L]
   # Preconnect e Preload para melhorar LCP
   Header add Link "<https://fonts.googleapis.com>; rel=preconnect"
   Header add Link "<https://fonts.gstatic.com>; rel=preconnect; crossorigin"
-  Header add Link "</assets/style.min.css>; rel=preload; as=style"
+  Header add Link "</assets/mystyle.min.css>; rel=preload; as=style"
 </IfModule>
 
 # Compressão GZIP / Brotli (quando suportado)
