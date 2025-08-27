@@ -29,7 +29,7 @@
   <link rel="shortcut icon" href="/assets/ico/favicon.jpg">
 
   <!-- CSS principal (não bloqueante) -->
-  <link href="/assets/style.css" rel='stylesheet'>
+  <link href="/assets/style.min.css" rel='stylesheet'>
 
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
