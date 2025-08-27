@@ -1,4 +1,3 @@
-/* Reset de CSS bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡sico */
 *,
 *::before,
 *::after {
@@ -7,11 +6,10 @@
   box-sizing: border-box;
 }
 
-/* Tipografia */
 body {
   background-color: #e4e4e4;
   font-family: 'Poppins', sans-serif;
-  font-weight: 400; /* Peso normal */
+  font-weight: 400;
   line-height: 1.6;
   color: #262626;
   letter-spacing: 1px;
@@ -32,24 +30,20 @@ strong {
   line-height: 1;
 }
 
-/* Listas */
 ul, ol {
  padding: 0 10px;
 }
 
-/* Tabelas */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* Imagens */
 img {
   max-width: 100%;
   height: auto;
 }
 
-/* Links */
 a {
   text-decoration: none;
   color: inherit;
@@ -57,75 +51,63 @@ a {
   line-height: 0;
 }
 
-
 input, textarea, button, select {
   font: inherit;
   border: none;
   background: none;
 }
 
-
 button, input[type="button"], input[type="submit"], input[type="reset"], select {
   cursor: pointer;
   background: transparent;
 }
 
-/* Scrollbars */
 html {
   -webkit-overflow-scrolling: touch;
 }
-
 
 button:focus, input:focus, textarea:focus {
   outline: none;
 }
 
-
 .container {
     width: 100%;
-    max-width: 1200px; 
-    margin: 0 auto; /* Centraliza o container */
-    padding: 0 20px; /* Padding nas laterais */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 .container-menu {
     width: 100%;
-    max-width: 95vw; 
-    margin: 0 auto; 
+    max-width: 95vw;
+    margin: 0 auto;
 }
 
-/* Definindo fontes base para todo o site */
 html {
-  font-size: 16px; /* Base para 1rem = 16px */
+  font-size: 16px;
 }
-
-
 
 h1 {
-  /*font-size: clamp(30px, 5vw, 50px); */
-  font-size: 2vw;
+  font-size: clamp(30px, 5vw, 50px);
   margin-bottom: 20px;
-  font-weight: 900; /* Peso extra pesado para maior destaque */
+  font-weight: 900;
   line-height: 1.2;
 }
 
-/* TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­tulos secundÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡rios - h2 */
 h2, .tituloServicos {
   font-size: 22px;
   margin-bottom: 20px;
-  font-weight: 800; 
+  font-weight: 800;
   letter-spacing: 1px;
   line-height: 1;
 }
 
-
 h3 {
   font-size: 18px;
   margin-bottom: 15px;
-  font-weight: 700; 
+  font-weight: 700;
   line-height: 1.1;
   letter-spacing: .5px;
 }
-
 
 p {
   font-size: 16px;
@@ -184,23 +166,16 @@ section {
     color: #1aff45;
 }
 .menu a {
-    /* Define o posicionamento relativo para que o pseudo-elemento seja posicionado corretamente */
     position: relative;
 }
 
 .menu a::after {
-    /* Adiciona a bolinha como conteÃƒÂºdo */
     content: '•';
-
-    /* Define o espaÃƒÂ§amento entre a bolinha e o texto */
     padding: 0 13px 0 19px;
-
-    /* Define a cor da bolinha para combinar com o design */
-    color: #1aff45; /* Use a cor que preferir */
+    color: #1aff45;
 }
 
 .menu a:last-child::after {
-    /* Remove a bolinha do ÃƒÂºltimo item para nÃƒÂ£o quebrar o layout */
     content: '';
 }
 .cta-button {
@@ -212,7 +187,6 @@ section {
     border-radius: 5px;
     height: fit-content;
     font-weight: 500;
-
 }
 .menu a:nth-child(6)::after {
     content: '';
@@ -240,7 +214,7 @@ section {
 }
 .banner {
     position: relative;
-    display: inline-block; /* Ajusta o tamanho ao da imagem */
+    display: inline-block;
 }
 
 .banner img {
@@ -251,8 +225,7 @@ section {
     position: absolute;
     top: 50%;
     left: 50%;
-    /*font-size: clamp(1.5rem, 3.2vw, 3.7rem);*/
-    font-size: 2vw;
+    font-size: clamp(1.5rem, 3.2vw, 3.7rem);
     transform: translate(-50%, -50%);
     color: white;
     padding: 0;
@@ -277,24 +250,22 @@ section {
   100% { background-position: 0% 50%; }
 }
 
-
 .card {
   flex: 1 1 calc(33.33% - 20px);
   background: white;
   padding: 40px 30px;
   text-align: left;
   position: relative;
-  overflow: hidden; /* Evita que o pseudo-elemento ultrapasse os limites */
+  overflow: hidden;
 }
 
-/* Criando a borda animada no topo com ::before */
 .card::before {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 5px; /* Espessura da borda */
+  height: 5px;
   background: linear-gradient(90deg, #1aff45, #262626, #1aff45);
   background-size: 200% 100%;
   animation: borda-animada 2.5s infinite linear;
@@ -310,12 +281,11 @@ position: relative;
   top: 0;
   left: 0;
   width: 100%;
-  height: 5px; /* Espessura da borda */
+  height: 5px;
   background: linear-gradient(90deg, #1aff45, #262626, #1aff45);
   background-size: 200% 100%;
   animation: borda-animada 2.5s infinite linear;
 }
-
 
 .card img {
   margin-bottom: 30px;
@@ -346,8 +316,6 @@ position: relative;
   justify-content: center;
 }
 
-
-/* Layout das colunas */
 .coluna {
   padding: 10px;
 }
@@ -364,7 +332,6 @@ position: relative;
   margin-bottom: 0;
 }
 
-/* EstilizaÃƒÂ§ÃƒÂ£o do subtÃƒÂ­tulo */
 .breadcrumb {
   display: block;
   font-size: 14px;
@@ -377,10 +344,9 @@ position: relative;
 
 .grade-marcas {
   display: flex;
-   /* 3 colunas iguais */
-  gap: 50px; 
-  justify-items: center; /* centraliza as imagens horizontalmente */
-  align-items: center;   /* centraliza as imagens verticalmente */
+  gap: 50px;
+  justify-items: center;
+  align-items: center;
   align-content: center;
   justify-content: center;
 }
@@ -460,14 +426,12 @@ footer .container p{
 }
 
 .icone-rede {
-
   transition: opacity 0.3s;
 }
 
 .icone-rede:hover {
   opacity: 0.6;
 } 
-
 
 .area-cta h2 {
   font-size: 8.9em;
@@ -477,7 +441,6 @@ footer .container p{
   display: flex;
   align-items: center;
   justify-content: space-between;
- 
 }
 .area-cta-bloco-esquerda {
   width: 70%;
@@ -525,7 +488,6 @@ footer .container p{
   display: flex;
   width: max-content;
   animation: deslizar 100s linear infinite;
-
 }
 
 .conteudo-carrossel h2 {
@@ -542,7 +504,6 @@ footer .container p{
     top: 1vw;
 }
 
-/* AnimaÃƒÂ§ÃƒÂ£o fluida */
 @keyframes deslizar {
   0% {
     transform: translateX(0%);
@@ -648,7 +609,7 @@ footer .container p{
       flex: 1 1 100%;
     }
     html {
-    font-size: 18px; /* Para telas grandes, define 1rem como 18px */
+    font-size: 18px;
     }
     .bloco {
       flex-direction: column;
@@ -661,20 +622,21 @@ footer .container p{
   }
   .grade-marcas {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 3 colunas iguais */
-    gap: 50px; /* espaÃƒÂ§amento entre colunas e linhas */
-    justify-items: center; /* centraliza as imagens horizontalmente */
-    align-items: center;   /* centraliza as imagens verticalmente */
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+    justify-items: center;
+    align-items: center;
     padding-top: 20px;
   }
   .direita p {
     padding-left: 0px;
     margin-bottom: 0;
 }
-
+.grade-marcas img {
+  max-width: 100px;
+}
 .area-cta h2 {
     font-size: 11vw;
-   
 }
 .coluna-redes {
     justify-content: center;
@@ -701,7 +663,6 @@ footer .container {
 .area-cta-bloco-esquerda, .area-cta-bloco-direita {
     width: 100%;
     text-align: center;
-
 }
 .footer-cta {
     padding: 0 0 30px 0 !important;
@@ -712,5 +673,4 @@ footer .container {
 .secao-intro {
     padding-top: 138px;
 }
-
 }
