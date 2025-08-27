@@ -102,7 +102,7 @@ html {
 
 h1 {
   /*font-size: clamp(30px, 5vw, 50px); */
-  font-size: 4vw;
+  font-size: 2vw;
   margin-bottom: 20px;
   font-weight: 900; /* Peso extra pesado para maior destaque */
   line-height: 1.2;
@@ -252,7 +252,7 @@ section {
     top: 50%;
     left: 50%;
     /*font-size: clamp(1.5rem, 3.2vw, 3.7rem);*/
-    font-size: 3.2vw;
+    font-size: 2vw;
     transform: translate(-50%, -50%);
     color: white;
     padding: 0;
