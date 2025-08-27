@@ -22,7 +22,7 @@
       </div>
     </div>
   </footer>
-
+  <link href="/assets/mystyle.min.css" rel='stylesheet'>
   <!-- Scripts no final com defer -->
 
 </body>
