@@ -32,10 +32,7 @@
   <link href="/assets/style.css" rel='stylesheet'>
 
 
-    <!-- Google Fonts - carregamento não bloqueante -->
-    <link href="https://fonts.googleapis.com">
-    <link href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&family=Poppins:wght@100..900&display=swap" rel='stylesheet'>
+
 
 </head>
 
