@@ -6,10 +6,6 @@
   box-sizing: border-box;
 }
 
-@font-face {
-  font-display: swap; /* garante fallback sem shift */
-}
-
 body {
   background-color: #e4e4e4;
   font-family: 'Poppins', sans-serif;
@@ -29,6 +25,19 @@ strong {
   font-weight: 600 !important
 }
 
+.logo a {
+  vertical-align: top;
+  line-height: 1;
+}
+
+ul, ol {
+ padding: 0 10px;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
 
 img {
   max-width: 100%;
@@ -279,7 +288,6 @@ position: relative;
 }
 
 .card img {
-  aspect-ratio: 1 / 1; /* quadrado */
   margin-bottom: 30px;
 }
 
