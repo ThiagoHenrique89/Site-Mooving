@@ -20,13 +20,13 @@
 <h2>O Poder do Conteúdo Audiovisual para sua Marca</h2>
 <p>O vídeo é o formato de conteúdo mais consumido e com maior poder de engajamento na internet. Ter vídeos de alta qualidade na sua estratégia de marketing aumenta a credibilidade, melhora o ranqueamento no Google e aproxima sua marca do cliente. Empresas de Jundiaí que investem em <strong>vídeos profissionais</strong> têm uma vantagem competitiva enorme.</p>
 
-        <h2>Vídeos Estratégicos para Mídias Sociais</h2>
+        <h2 id="video-midias-sociais">Vídeos Estratégicos para Mídias Sociais</h2>
         <p>Produzimos vídeos curtos, dinâmicos e perfeitos para redes sociais como Instagram, TikTok e YouTube Shorts. Sejam vídeos de depoimentos, tutoriais ou conteúdo de entretenimento, nosso foco é criar materiais que se viralizem, aumentem o engajamento e gerem tráfego qualificado para o seu perfil e site.</p>
 
-        <h2>Vídeo Comercial (Propaganda)</h2>
+        <h2 id="video-comercial">Vídeo Comercial (Propaganda)</h2>
         <p>Um bom <strong>vídeo comercial</strong> não apenas mostra seu produto ou serviço, mas cria um desejo e um impacto emocional no público. Criamos roteiros criativos e produções cinematográficas que apresentam seus diferenciais de forma profissional, sendo ideais para campanhas de marketing em todas as mídias, online e offline.</p>
 
-        <h2>Vídeo Institucional (Apresentação)</h2>
+        <h2 id="video-institucional">Vídeo Institucional (Apresentação)</h2>
         <p>O <strong>vídeo institucional</strong> é a vitrine da sua empresa. Ele conta sua história, mostra sua equipe, seus valores e o que faz seu negócio ser único. Perfeito para o seu site, apresentações e eventos, o vídeo institucional da <strong>Mooving</strong> é a ferramenta ideal para construir credibilidade e inspirar confiança em clientes e parceiros em Jundiaí.</p>
 
         <h2>Nosso Processo de Produção de Vídeos</h2>

@@ -49,7 +49,7 @@
 					<p>A Mooving é uma agência full-service que vai além do convencional. Criamos estratégias inovadoras, combinando dados, criatividade e tecnologia para gerar conexões autênticas entre marcas e clientes. Nosso compromisso é entregar soluções que realmente fazem a diferença, fortalecendo negócios e impulsionando resultados que geram crescimento sustentável e relevante no mercado.</p>
 				</div>
 			</div>
-		<div class="cards">
+  		<div class="cards">
 			<div class="card">
 				<img src="/assets/images/web-design-criacao-de-sites.webp" width="313" height="313" alt="Imagem 1">
 				<h3><span class="light">WEB DESIGN<br></span>CRIAÇÃO DE SITES</h3>
@@ -58,9 +58,9 @@
 				</p>
 				<nav class="menuCard">
 					<ul>
-						<a href="/web-design-criacao-de-sites#ecommerce-loja-virtual"><li>E-COMMERCE / LOJA VIRTUAL</li></a>	
-						<a href="/web-design-criacao-de-sites#landing-page"><li>LANDING PAGE</li></a>
-						<a href="/web-design-criacao-de-sites#site-institucional-site-dinamico"><li>SITE INSTITUCIONAL / SITE DINÂMICO</li></a>
+						<li><a href="/web-design-criacao-de-sites#ecommerce-loja-virtual">E-COMMERCE / LOJA VIRTUAL</a></li>
+						<li><a href="/web-design-criacao-de-sites#landing-page">LANDING PAGE</a></li>
+						<li><a href="/web-design-criacao-de-sites#site-institucional-site-dinamico">SITE INSTITUCIONAL / SITE DINÂMICO</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -72,9 +72,9 @@
 				</p>
 				<nav class="menuCard">
 					<ul>
-						<li>LOGOTIPO + IDENTIDADE VISUAL</li>
-						<li>REBRANDING</li>
-						<li>NAMING – METODOLOGIA INTERNA</li>
+						<li><a href="/branding-identidade-visual#logotipo-identidade-visual">LOGOTIPO + IDENTIDADE VISUAL</a></li>
+						<li><a href="/branding-identidade-visual#rebranding">REBRANDING</a></li>
+						<li><a href="/branding-identidade-visual#naming">NAMING – METODOLOGIA INTERNA</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -86,9 +86,9 @@
 				</p>
 				<nav class="menuCard">
 					<ul>
-						<li>CRIATIVOS PARA MÍDIAS SOCIAIS</li>
-						<li>GERENCIAMENTO DE ANÚNCIOS</li>
-						<li>PLANEJAMENTO E ESTRATÉGIA</li>
+						<li><a href="/gestao-de-midias-sociais#criativos-para-midias-sociais">CRIATIVOS PARA MÍDIAS SOCIAIS</a></li>
+						<li><a href="/gestao-de-midias-sociais#anuncios-de-anuncios">GERENCIAMENTO DE ANÚNCIOS</a></li>
+						<li><a href="/gestao-de-midias-sociais#planejamento-e-estategia">PLANEJAMENTO E ESTRATÉGIA</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -100,37 +100,37 @@
 				</p>
 				<nav class="menuCard">
 					<ul>
-						<li>GOOGLE ADS</li>
-						<li>SOCIAL ADS: META, TIKTOK, LINKEDIN</li>
-						<li>CAMPANHAS 360º</li>
+						<li><a href="/anuncios-trafego-pago#google-ads">GOOGLE ADS</a></li>
+						<li><a href="/anuncios-trafego-pago#social-ads-meta-tik-tok-linkedin">SOCIAL ADS: META, TIKTOK, LINKEDIN</a></li>
+						<li><a href="/anuncios-trafego-pago#campanhas-360">CAMPANHAS 360º</a></li>
 					</ul>
 				</nav>
 			</div>
 			<div class="card">
-				<img src="/assets/images/seo-otimizacao-de-sites.webp" width="313" height="313" alt="Imagem 1">
+				<img src="/assets/images/seo-otimizacao-de-sites.webp" width="313" height="313" alt="SEO Otimização de Sites">
 				<h3><span class="light">SEO<br></span>OTIMIZAÇÃO DE SITES</h3>
 				<p>
 					Seu site nas primeiras páginas do Google de forma orgânica, sem precisar pagar por clique.
 				</p>
 				<nav class="menuCard">
 					<ul>
-						<li>SEO ON-PAGE (CONTEÚDO)</li>
-						<li>SEO INDEXAÇÃO E PERFORMANCE</li>
-						<li>SEO LOCAL</li>
+						<li><a href="/seo-otimizacao-de-sites#seo-onpage">SEO ON-PAGE (CONTEÚDO)</a></li>
+						<li><a href="/seo-otimizacao-de-sites#seo-indexacao-performance">SEO INDEXAÇÃO E PERFORMANCE</a></li>
+						<li><a href="/seo-otimizacao-de-sites#seo-local">SEO LOCAL</a></li>
 					</ul>
 				</nav>
 			</div>
 			<div class="card">
-				<img src="/assets/images/video-audiovisual.webp" width="313" height="313" alt="Imagem 1">
+				<img src="/assets/images/video-audiovisual.webp" width="313" height="313" alt="Vídeos Audiovisual">
 				<h3><span class="light">VÍDEOS<br></span>AUDIOVISUAL</h3>
 				<p>
 					Criamos vídeos profissionais que dão vida à sua comunicação e fortalecem o conceito e imagem da sua marca.
 				</p>
 				<nav class="menuCard">
 					<ul>
-						<li>VÍDEO PARA MÍDIAS SOCIAIS</li>
-						<li>VÍDEO COMERCIAL (PROPAGANDA)</li>
-						<li>VÍDEO INSTITUCIONAL (APRESENTAÇÃO)</li>
+						<li><a href="/videos-audiovisual#video-midias-sociais">VÍDEO PARA MÍDIAS SOCIAIS</a></li>
+						<li><a href="/videos-audiovisual#video-comercial">VÍDEO COMERCIAL (PROPAGANDA)</a></li>
+						<li><a href="/videos-audiovisual#video-institucional">VÍDEO INSTITUCIONAL (APRESENTAÇÃO)</a></li>
 					</ul>
 				</nav>
 			</div>

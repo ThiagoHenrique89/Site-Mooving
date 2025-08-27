@@ -20,13 +20,13 @@
 <h2>Por que Ter uma Marca Forte?</h2>
 <p>Uma <strong>identidade visual</strong> bem definida é a alma do seu negócio. Ela não apenas distingue sua empresa da concorrência, mas também transmite credibilidade, profissionalismo e os valores da sua marca. Em um mercado saturado, ter um branding estratégico é o que fará com que seu público-alvo se identifique com você, abrindo portas para novos negócios e parcerias.</p>
 
-        <h2>Criação de Logotipo e Identidade Visual Completa</h2>
+        <h2 id="logotipo-identidade-visual">Criação de Logotipo e Identidade Visual Completa</h2>
         <p>Seu <strong>logotipo</strong> é o ponto de partida, mas a <strong>identidade visual</strong> é o universo da sua marca. Criamos soluções completas que incluem a paleta de cores, tipografia, aplicações de marca e guias de estilo. O resultado é um conjunto de elementos coeso e exclusivo que pode ser aplicado em todos os seus canais de comunicação, do site às mídias sociais.</p>
 
-        <h2>Serviço de Rebranding Estratégico</h2>
+        <h2 id="rebranding">Serviço de Rebranding Estratégico</h2>
         <p>Sua marca não reflete mais seus valores atuais? O <strong>rebranding</strong> é a solução para revitalizar sua imagem e reconquistar seu público. Analisamos o mercado, os objetivos do seu negócio e sua história para repaginar sua identidade de forma estratégica, garantindo que a nova marca seja relevante e forte, pronta para os desafios do futuro.</p>
 
-        <h2>Naming: A Escolha do Nome Perfeito</h2>
+        <h2 id="naming">Naming: A Escolha do Nome Perfeito</h2>
         <p>O nome da sua empresa é a sua primeira impressão. Com nossa metodologia interna de <strong>naming</strong>, conduzimos um processo minucioso de pesquisa e criação. Buscamos um nome que seja memorável, fácil de pronunciar, que tenha significado para o seu público e que transmita a essência do seu negócio, evitando problemas legais e facilitando a comunicação da sua marca.</p>
 
         <h2>Benefícios de Fazer Branding com a Mooving em Jundiaí</h2>

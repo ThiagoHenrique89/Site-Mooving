@@ -20,13 +20,13 @@
 <h2>O que é Tráfego Pago e por que sua Empresa Precisa Dele?</h2>
 <p><strong>Tráfego pago</strong> é a estratégia de atrair visitantes para o seu site ou perfil usando anúncios patrocinados. Diferente do tráfego orgânico, ele oferece resultados rápidos, controle total sobre o público-alvo e capacidade de mensurar o retorno do investimento. É ideal para empresas de Jundiaí que desejam expandir rapidamente sua base de clientes e gerar vendas em curto prazo.</p>
 
-        <h2>Google Ads: Atraia Clientes no Momento da Busca</h2>
+        <h2 id="google-ads">Google Ads: Atraia Clientes no Momento da Busca</h2>
         <p>O <strong>Google Ads</strong> permite que sua empresa apareça para pessoas que já estão procurando por seus produtos ou serviços. Nossos especialistas em <strong>Google Ads em Jundiaí</strong> criam campanhas de pesquisa e display, com palavras-chave estratégicas e anúncios persuasivos, garantindo que sua marca seja encontrada no momento exato em que o cliente precisa de você.</p>
 
-        <h2>Social Ads: Alcance seu Público nas Redes Sociais</h2>
+        <h2 id="social-ads-meta-tik-tok-linkedin">Social Ads: Alcance seu Público nas Redes Sociais</h2>
         <p>Com os <strong>Social Ads</strong> (Meta, TikTok, LinkedIn), segmentamos seu público por interesses, comportamentos, dados demográficos e muito mais. Nossa equipe desenvolve campanhas de anúncios para o Facebook, Instagram, TikTok e LinkedIn, focando em branding, engajamento e, claro, conversões. É a maneira perfeita de construir relacionamento e gerar vendas com pessoas que se interessam pelo seu negócio.</p>
 
-        <h2>Campanhas 360°: Estratégias Integradas para Máximo Impacto</h2>
+        <h2 id="campanhas-360">Campanhas 360°: Estratégias Integradas para Máximo Impacto</h2>
         <p>As <strong>campanhas 360°</strong> integram o melhor do Google Ads e Social Ads, criando uma estratégia coesa e poderosa. Atingimos seu público em diferentes plataformas e momentos da jornada de compra, desde a busca inicial até a conversão final. Essa abordagem completa maximiza o alcance, otimiza o orçamento e fortalece sua presença digital em Jundiaí.</p>
 
         <h2>Como a Mooving Otimiza suas Campanhas de Tráfego Pago</h2>

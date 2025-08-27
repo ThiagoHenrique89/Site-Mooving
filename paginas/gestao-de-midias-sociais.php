@@ -20,13 +20,13 @@
 <h2>Por que a Gestão Profissional de Redes Sociais é Essencial?</h2>
 <p>As redes sociais são a principal forma de interação do público com as marcas hoje. Ter uma presença ativa e estratégica é crucial para construir uma comunidade leal, aumentar a visibilidade, gerar tráfego qualificado para o seu site e converter seguidores em clientes. Empresas de Jundiaí que investem em <strong>gestão de mídias sociais</strong> saem na frente da concorrência.</p>
 
-        <h2>Criação de Conteúdo e Criativos de Alta Performance</h2>
+        <h2 id="criativos-para-midias-sociais">Criação de Conteúdo e Criativos de Alta Performance</h2>
         <p>Produzimos conteúdo relevante e criativos que capturam a atenção do seu público-alvo. Seja através de posts, stories ou carrosséis, nossa equipe de design e redação cria peças visuais e textos que transmitem a mensagem da sua marca de forma clara e atrativa, incentivando o engajamento e a ação do usuário.</p>
 
-        <h2>Gerenciamento de Anúncios em Mídias Sociais</h2>
+        <h2 id="anuncios-de-anuncios">Gerenciamento de Anúncios em Mídias Sociais</h2>
         <p>Para alcançar um público maior e mais específico, as campanhas de anúncios são fundamentais. A <strong>Mooving</strong> gerencia <strong>Social Ads</strong> (Meta, TikTok, LinkedIn), otimizando orçamentos e segmentando as audiências para garantir o máximo retorno sobre o investimento. Focamos em gerar leads, cliques para o seu site ou vendas diretas, de acordo com o objetivo do seu negócio.</p>
 
-        <h2>Planejamento e Estratégia de Conteúdo</h2>
+        <h2 id="planejamento-e-estategia">Planejamento e Estratégia de Conteúdo</h2>
         <p>Cada perfil é único e merece uma estratégia personalizada. Nossos especialistas fazem uma análise completa do seu negócio e do mercado em Jundiaí para criar um plano de conteúdo sob medida. Definimos os melhores formatos, frequência de posts e temas que irão ressoar com o seu público, construindo uma linha editorial forte e coerente.</p>
 
         <h2>Benefícios da Gestão de Mídias Sociais com a Mooving</h2>

@@ -20,13 +20,13 @@
 <h2>O que é SEO e por que é Essencial para sua Empresa?</h2>
 <p><strong>SEO</strong> (Search Engine Optimization) é um conjunto de técnicas para otimizar um site, tornando-o mais atrativo para os motores de busca como o Google. Ele garante que seu site apareça nos primeiros resultados de forma natural, sem anúncios. Para negócios em Jundiaí, o <strong>SEO</strong> é a chave para ser encontrado por clientes que estão na sua região e já prontos para comprar.</p>
 
-        <h2>SEO On-Page: Conteúdo e Estrutura Otimizados</h2>
+        <h2 id="seo-onpage">SEO On-Page: Conteúdo e Estrutura Otimizados</h2>
         <p>O <strong>SEO On-Page</strong> foca nos elementos internos do seu site. Nossa equipe otimiza o conteúdo, as palavras-chave, os títulos (H1, H2, H3), as meta tags, as URLs amigáveis e as imagens. Criamos um conteúdo relevante e de qualidade para responder às dúvidas do seu público, garantindo que o Google entenda a relevância do seu site e o posicione bem nos resultados.</p>
 
-        <h2>SEO Indexação e Performance: A Base para o Sucesso</h2>
+        <h2 id="seo-indexacao-performance">SEO Indexação e Performance: A Base para o Sucesso</h2>
         <p>Garantimos que o seu site seja rastreado e indexado corretamente pelo Google. Além disso, focamos na performance, melhorando a velocidade de carregamento e a usabilidade em dispositivos móveis. Um site rápido e responsivo melhora a experiência do usuário e é um fator decisivo para o bom ranqueamento.</p>
 
-        <h2>SEO Local: Conquiste Clientes em Jundiaí e Região</h2>
+        <h2 id="seo-local">SEO Local: Conquiste Clientes em Jundiaí e Região</h2>
         <p>Para empresas com atuação física, o <strong>SEO Local</strong> é fundamental. Otimizamos sua presença no Google Meu Negócio, garantimos que suas informações de contato (NAP - Name, Address, Phone) estejam consistentes em todas as plataformas e trabalhamos com palavras-chave geolocalizadas como "agência de marketing em Jundiaí" para atrair o público que está na sua cidade.</p>
 
         <h2>Benefícios da Otimização de Sites com a Mooving</h2>
