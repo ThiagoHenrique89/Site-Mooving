@@ -24,8 +24,6 @@
   </footer>
 
   <!-- Scripts no final com defer -->
-  <link href="/assets/mystyle.min.css" rel='stylesheet'>
   <script src="/assets/scripts.js" defer></script>
-
 </body>
 </html>
