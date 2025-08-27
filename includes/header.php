@@ -28,22 +28,13 @@
   <!-- Favicon -->
   <link rel="shortcut icon" href="/assets/ico/favicon.jpg">
 
-  <!--<link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&family=Poppins:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"> -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&family=Poppins:ital,wght@0,100..900;1,100..900&display=swap">
 
-
-  <!-- CSS principal (não bloqueante)
-  <link href="/assets/mystyle.min.css" rel='stylesheet'> -->
-
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&family=Poppins:ital,wght@0,100..900;1,100..900&display=swap">
-
+  <link rel="stylesheet" href="/assets/mystyle.min.css">
+  
 </head>
 
 <body>
-  
-  <link rel="stylesheet" href="/assets/mystyle.min.css">
 
   <nav class="navbar">
     <div class="displayMenu container-menu">
