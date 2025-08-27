@@ -21,32 +21,3 @@ h1,h2,h3,h4,h5,h6 {
   font-style: normal;
 }
 
-strong {
-  font-weight: 600 !important
-}
-
-.logo a {
-  vertical-align: top;
-  line-height: 1;
-}
-
-ul, ol {
- padding: 0 10px;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
-  letter-spacing: .2px;
-  line-height: 0;
-}
