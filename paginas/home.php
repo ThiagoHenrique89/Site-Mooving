@@ -58,9 +58,9 @@
 				</p>
 				<nav class="menuCard">
 					<ul>
-						<li>E-COMMERCE / LOJA VIRTUAL</li>
-						<li>LANDING PAGE</li>
-						<li>SITE INSTITUCIONAL / SITE DINÂMICO</li>
+						<a href="/web-design-criacao-de-sites#ecommerce-loja-virtual"><li>E-COMMERCE / LOJA VIRTUAL</li></a>	
+						<a href="/web-design-criacao-de-sites#landing-page"><li>LANDING PAGE</li></a>
+						<a href="/web-design-criacao-de-sites#site-institucional-site-dinamico"><li>SITE INSTITUCIONAL / SITE DINÂMICO</li></a>
 					</ul>
 				</nav>
 			</div>

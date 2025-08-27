@@ -21,13 +21,13 @@
             <h2>Por que Ter um Site Profissional?</h2>
             <p>Um <strong>site profissional</strong> é muito mais do que uma vitrine digital — é o centro da sua presença online. Ele transmite credibilidade, facilita o acesso às informações e abre portas para novos negócios. Em um mercado competitivo, empresas com sites bem estruturados conquistam mais clientes, geram autoridade e aumentam suas vendas.</p>
 
-            <h2>E-commerce e Loja Virtual</h2>
+            <h2 id="ecommerce-loja-virtual">E-commerce e Loja Virtual</h2>
             <p>Com o crescimento das compras online, ter um <strong>e-commerce</strong> bem planejado é essencial. Desenvolvemos lojas virtuais otimizadas para SEO, rápidas e seguras, com foco em <em>usabilidade e experiência do usuário</em>. Além disso, integramos meios de pagamento confiáveis e ferramentas de gestão para facilitar sua operação e maximizar as vendas.</p>
 
-            <h2>Landing Pages Estratégicas</h2>
+            <h2 id="landing-page">Landing Pages Estratégicas</h2>
             <p>As <strong>landing pages</strong> são páginas criadas com o objetivo de conversão, ideais para campanhas de anúncios e captação de leads. Elas são otimizadas para gerar cliques, formulários preenchidos ou vendas diretas, sempre com design limpo e CTA’s (chamadas para ação) claros e persuasivos.</p>
 
-            <h2>Sites Institucionais e Dinâmicos</h2>
+            <h2 id="site-institucional-site-dinamico">Sites Institucionais e Dinâmicos</h2>
             <p>Um <strong>site institucional</strong> transmite a essência da sua empresa, destacando sua história, serviços e diferenciais. Já os <strong>sites dinâmicos</strong> permitem constante atualização de conteúdos, como notícias e blogs, garantindo relevância nos buscadores e criando maior conexão com o público-alvo.</p>
 
             <h2>Benefícios da Criação de Sites com a Mooving</h2>
