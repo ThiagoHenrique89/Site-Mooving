@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-display: swap; /* garante fallback sem shift */
+}
+
 body {
   background-color: #e4e4e4;
   font-family: 'Poppins', sans-serif;
@@ -288,6 +292,7 @@ position: relative;
 }
 
 .card img {
+  aspect-ratio: 1 / 1; /* quadrado */
   margin-bottom: 30px;
 }
 
