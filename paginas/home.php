@@ -1,31 +1,7 @@
 
 <main>
     <article>
-		<section class="carrosel-section">
-		<div class="carrossel-palavras">
-			<div class="conteudo-carrossel">
 
-			<!-- Primeiro grupo -->
-			<h2>Criação de sites <span class="separador">*</span></h2>
-			<h2>Branding <span class="separador">*</span></h2>
-			<h2>Identidade visual <span class="separador">*</span></h2>
-			<h2>Gestão de mídias sociais <span class="separador">*</span></h2>
-			<h2>Vídeos animados <span class="separador">*</span></h2>
-			<h2>Anuncie nas redes sociais e Google <span class="separador">*</span></h2>
-			<h2>Otimização de sites (SEO) <span class="separador">*</span></h2>
-
-			<!-- Segundo grupo (repetido para efeito contínuo) -->
-			<h2>Criação de sites <span class="separador">*</span></h2>
-			<h2>Branding <span class="separador">*</span></h2>
-			<h2>Identidade visual <span class="separador">*</span></h2>
-			<h2>Gestão de mídias sociais <span class="separador">*</span></h2>
-			<h2>Vídeos animados <span class="separador">*</span></h2>
-			<h2>Anuncie nas redes sociais e Google <span class="separador">*</span></h2>
-			<h2>Otimização de sites (SEO) <span class="separador">*</span></h2>
-
-			</div>
-		</div>
-		</section>
         <section class="primeiraSection">
 			<div class="container">
 			<div class="bloco">
