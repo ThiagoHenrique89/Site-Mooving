@@ -13,26 +13,6 @@
     <article>
 
 
-		<section class="marcas">
-			<div class="container">
-			<div class="bloco">
-				<div class="coluna esquerda">
-					<span class="subtitulo"></span>
-					<h3 class="mbz">Marcas que a nossa equipe ajudou a construir.
-					</h3>
-				</div>
-				<div class="coluna direita">
-				<div class="grade-marcas">
-					<img src="/assets/images/marcas/marca4.webp" width="86" height="25" alt="Marca 4">
-					<img src="/assets/images/marcas/marca2.webp" width="94" height="25" alt="Marca 2">
-					<img src="/assets/images/marcas/marca1.webp" width="42" height="25" alt="Marca 1">
-					<img src="/assets/images/marcas/marca6.webp" width="63" height="25" alt="Marca 6">
-					<img src="/assets/images/marcas/marca7.webp" width="71" height="25" alt="Marca 3">
-					<img src="/assets/images/marcas/marca5.webp" width="66" height="25" alt="Marca 5">
-				</div>
-				</div>
-			</div>
-		</section>
 		<section class="footer-cta">
 			<div class="container">
 				<div class="area-cta">
