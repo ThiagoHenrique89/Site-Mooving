@@ -30,8 +30,6 @@
 
   <!-- CSS principal (não bloqueante) -->
   <link href="/assets/style.css" as="style" rel='stylesheet'>
-  <link rel="preload" href="/assets/style.css" as="style">
-
 
     <!-- Google Fonts - carregamento não bloqueante -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
