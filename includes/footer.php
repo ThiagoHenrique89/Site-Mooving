@@ -13,7 +13,7 @@
         <p>&copy; <?php echo date('Y'); ?> <strong>Agência Mooving</strong><br>Todos os direitos reservados.</p>
       </div>
       <div class="coluna-texto">
-        <p><strong>Endereço</strong>: Av Reserva do Japy 165 - Jundiaí/SP</p>
+        <p><strong>Endereço</strong>: <br>Av Reserva do Japy 165 - Jundiaí/SP</p>
       </div>
       <div class="coluna-redes">
         <a href="https://instagram.com/agenciamooving"><img src="/assets/images/icones/instagram.webp" alt="Instagram Mooving" class="icone-rede" width="24" height="24" loading="lazy"></a>
