@@ -27,7 +27,7 @@
         <p>Com os <strong>Social Ads</strong> (Meta, TikTok, LinkedIn), segmentamos seu público por interesses, comportamentos, dados demográficos e muito mais. Nossa equipe desenvolve campanhas de anúncios para o Facebook, Instagram, TikTok e LinkedIn, focando em branding, engajamento e, claro, conversões. É a maneira perfeita de construir relacionamento e gerar vendas com pessoas que se interessam pelo seu negócio.</p>
 
         <h2 id="campanhas-360">Campanhas 360°: Estratégias Integradas para Máximo Impacto</h2>
-        <p>As <strong>campanhas 360°</strong> integram o melhor do Google Ads e Social Ads, criando uma estratégia coesa e poderosa. Atingimos seu público em diferentes plataformas e momentos da jornada de compra, desde a busca inicial até a conversão final. Essa abordagem completa maximiza o alcance, otimiza o orçamento e fortalece sua presença digital em Jundiaí.</p>
+        <p>As <strong>campanhas 360°</strong> integram o melhor do Google Ads e Social Ads, criando uma estratégia coesa e poderosa. Atingimos seu público em diferentes plataformas e momentos da jornada de compra, desde a busca inicial até a conversão final. Essa abordagem completa maximiza o alcance, otimiza o orçamento e fortalece sua presença digital.</p>
 
         <h2>Como a Mooving Otimiza suas Campanhas de Tráfego Pago</h2>
         <h3>Análise e Planejamento Personalizado</h3>
@@ -37,13 +37,13 @@
         <p>Não basta criar a campanha. Monitoramos e otimizamos diariamente, ajustando lances, palavras-chave e criativos para garantir o melhor desempenho e o maior retorno sobre o investimento.</p>
 
         <h3>Relatórios Transparentes</h3>
-        <p>Você terá acesso a relatórios completos e fáceis de entender, mostrando o desempenho de cada campanha. Nossa comunicação é clara, e você saberá exatamente como seu dinheiro está sendo investido para gerar resultados para sua empresa de Jundiaí.</p>
+        <p>Você terá acesso a relatórios completos e fáceis de entender, mostrando o desempenho de cada campanha. Nossa comunicação é clara, e você saberá exatamente como seu dinheiro está sendo investido para gerar resultados para sua empresa.</p>
 
-        <h2>Aumente suas Vendas com Tráfego Pago em Jundiaí</h2>
+        <h2>Aumente suas Vendas com Tráfego Pago</h2>
         <p>Se você busca uma agência de <strong>tráfego pago em Jundiaí</strong> que entende de performance e conversão, a <strong>Mooving</strong> é a sua escolha. Nossa missão é colocar sua empresa à frente da concorrência, atraindo clientes qualificados e impulsionando suas vendas.</p>
 
         <h2>Quer Gerar Mais Clientes com Anúncios Online?</h2>
-        <p>Entre em contato com a Mooving e vamos juntos planejar a campanha que vai alavancar o seu negócio em Jundiaí.</p>
+        <p>Entre em contato com a Mooving e vamos juntos planejar a campanha que vai alavancar o seu negócio.</p>
     </article>
 </div>
 </main>

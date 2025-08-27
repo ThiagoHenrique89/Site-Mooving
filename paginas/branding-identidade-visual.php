@@ -31,7 +31,7 @@
 
         <h2>Benefícios de Fazer Branding com a Mooving em Jundiaí</h2>
         <h3>Construção de Autoridade Local</h3>
-        <p>Uma marca forte em Jundiaí se torna referência para o público local, o que aumenta a confiança e a preferência de potenciais clientes. Nosso trabalho focado em <strong>branding local</strong> ajuda a sua empresa a se tornar um nome de peso na região.</p>
+        <p>Uma marca forte se torna referência para o público local, o que aumenta a confiança e a preferência de potenciais clientes. Nosso trabalho focado em <strong>branding local</strong> ajuda a sua empresa a se tornar um nome de peso na região.</p>
 
         <h3>Coerência em Todos os Canais</h3>
         <p>Garantimos que a sua marca tenha uma comunicação visual consistente, seja no seu site, nas redes sociais ou em materiais impressos. Essa coerência fortalece o reconhecimento e cria uma imagem sólida para o seu negócio.</p>
@@ -49,7 +49,7 @@
         <h3>Design e Implementação</h3>
         <p>Criamos os elementos visuais, do logotipo ao manual de marca. Acompanhamos a implementação em todos os canais digitais e físicos, assegurando a aplicação correta e consistente da nova identidade.</p>
 
-        <h2>Sua Marca Pronta para o Sucesso em Jundiaí</h2>
+        <h2>Sua Marca Pronta para o Sucesso</h2>
         <p>A <strong>Mooving</strong> é a parceira ideal para empresas que desejam construir uma marca que realmente conte sua história e conecte-se com as pessoas. Se você busca <strong>serviços de branding em Jundiaí</strong> para alavancar seu negócio, nosso time está pronto para transformar sua visão em realidade. </p>
 
         <h2>Pronto para Começar a Construir sua Marca?</h2>

@@ -39,9 +39,9 @@
         <h3>Edição e Finalização</h3>
         <p>A magia acontece na pós-produção. Adicionamos trilha sonora, efeitos visuais, legendas e animações para criar um resultado final polido, dinâmico e que supere suas expectativas.</p>
 
-        <h2>Benefícios de Produzir Vídeos com a Mooving em Jundiaí</h2>
+        <h2>Benefícios de Produzir Vídeos com a Mooving</h2>
         <h3>Conteúdo de Alta Qualidade</h3>
-        <p>Garantimos vídeos com produção profissional, que transmitem credibilidade e refletem a qualidade da sua marca. Isso é crucial para empresas de Jundiaí que querem se destacar.</p>
+        <p>Garantimos vídeos com produção profissional, que transmitem credibilidade e refletem a qualidade da sua marca. Isso é crucial para empresas que querem se destacar.</p>
 
         <h3>Conexão Emocional</h3>
         <p>O audiovisual tem o poder de gerar emoção e memorabilidade. Nosso trabalho foca em criar essa conexão, fazendo com que sua marca seja inesquecível para o seu público.</p>

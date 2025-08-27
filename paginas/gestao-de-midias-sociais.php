@@ -27,11 +27,11 @@
         <p>Para alcançar um público maior e mais específico, as campanhas de anúncios são fundamentais. A <strong>Mooving</strong> gerencia <strong>Social Ads</strong> (Meta, TikTok, LinkedIn), otimizando orçamentos e segmentando as audiências para garantir o máximo retorno sobre o investimento. Focamos em gerar leads, cliques para o seu site ou vendas diretas, de acordo com o objetivo do seu negócio.</p>
 
         <h2 id="planejamento-e-estategia">Planejamento e Estratégia de Conteúdo</h2>
-        <p>Cada perfil é único e merece uma estratégia personalizada. Nossos especialistas fazem uma análise completa do seu negócio e do mercado em Jundiaí para criar um plano de conteúdo sob medida. Definimos os melhores formatos, frequência de posts e temas que irão ressoar com o seu público, construindo uma linha editorial forte e coerente.</p>
+        <p>Cada perfil é único e merece uma estratégia personalizada. Nossos especialistas fazem uma análise completa do seu negócio e do mercado para criar um plano de conteúdo sob medida. Definimos os melhores formatos, frequência de posts e temas que irão ressoar com o seu público, construindo uma linha editorial forte e coerente.</p>
 
         <h2>Benefícios da Gestão de Mídias Sociais com a Mooving</h2>
         <h3>Aumento de Autoridade e Credibilidade</h3>
-        <p>Uma presença profissional nas redes sociais demonstra a seriedade e o compromisso da sua marca, o que aumenta a confiança dos consumidores em Jundiaí e região.</p>
+        <p>Uma presença profissional nas redes sociais demonstra a seriedade e o compromisso da sua marca, o que aumenta a confiança dos consumidores.</p>
 
         <h3>Comunicação Direta com o Público</h3>
         <p>As mídias sociais são o canal perfeito para ouvir seu cliente, responder dúvidas e construir um relacionamento próximo. Gerenciamos a sua comunidade para que você se concentre no que realmente importa: seu negócio.</p>
@@ -49,11 +49,11 @@
         <h3>Publicação e Monitoramento</h3>
         <p>Agendamos as publicações, monitoramos o engajamento e a interação com os seguidores, respondendo a comentários e mensagens para manter um relacionamento ativo.</p>
 
-        <h2>Sua Marca Forte nas Redes Sociais em Jundiaí</h2>
+        <h2>Sua Marca Forte nas Redes Sociais</h2>
         <p>Se você busca uma agência de <strong>gestão de mídias sociais em Jundiaí</strong> que realmente entende de estratégia e resultados, a <strong>Mooving</strong> é a sua parceira ideal. Deixe-nos cuidar da sua presença online para que você possa focar no crescimento do seu negócio.</p>
 
         <h2>Pronto para Impulsionar sua Marca Online?</h2>
-        <p>Entre em contato com a Mooving e vamos conversar sobre as suas metas. Nosso time está pronto para transformar sua presença digital e conectar sua marca com o público de Jundiaí.</p>
+        <p>Entre em contato com a Mooving e vamos conversar sobre as suas metas. Nosso time está pronto para transformar sua presença digital e conectar sua marca com o público de Jundiaí ou em território nacional.</p>
     </article>
 </div>
 </main>

@@ -34,14 +34,14 @@
         <p>Com o SEO, seu site recebe visitas de pessoas que já demonstraram interesse no que você oferece. Isso aumenta a probabilidade de conversão e a eficiência das suas estratégias de marketing.</p>
 
         <h3>Autoridade e Credibilidade</h3>
-        <p>Estar nas primeiras posições do Google transmite credibilidade e autoridade. Seu negócio em Jundiaí será percebido como uma referência no mercado.</p>
+        <p>Estar nas primeiras posições do Google transmite credibilidade e autoridade. Seu negócio será percebido como uma referência no mercado.</p>
 
         <h3>Resultados Duradouros e Custo-Benefício</h3>
         <p>Diferente do tráfego pago, os resultados do SEO são construídos a longo prazo e continuam a gerar tráfego mesmo após o investimento inicial, oferecendo um excelente custo-benefício para o seu negócio.</p>
 
         <h2>Nosso Processo de Otimização de SEO</h2>
         <h3>Análise e Diagnóstico</h3>
-        <p>Realizamos uma auditoria completa do seu site para identificar pontos fracos e oportunidades de melhoria. Pesquisamos as melhores palavras-chave para o seu negócio em Jundiaí.</p>
+        <p>Realizamos uma auditoria completa do seu site para identificar pontos fracos e oportunidades de melhoria. Pesquisamos as melhores palavras-chave para o seu negócio.</p>
 
         <h3>Estratégia e Otimização</h3>
         <p>Com base na análise, implementamos as técnicas de SEO on-page, melhorias de performance e estratégias de SEO local. Focamos em um plano personalizado para as suas necessidades.</p>
@@ -49,7 +49,7 @@
         <h3>Monitoramento e Relatórios</h3>
         <p>Acompanhamos constantemente as métricas de ranqueamento e tráfego. Enviamos relatórios detalhados para que você possa ver o crescimento e o sucesso da sua presença online.</p>
 
-        <h2>Seja Encontrado por Clientes em Jundiaí com a Mooving</h2>
+        <h2>Seja Encontrado por Clientes em Jundiaí e região ou em território nacional com a Mooving</h2>
         <p>Se sua empresa busca uma parceria estratégica para dominar os resultados do Google, a <strong>Mooving</strong> é a sua agência de <strong>SEO em Jundiaí</strong>. Nossa equipe está pronta para colocar seu negócio no mapa digital e gerar o crescimento que você merece.</p>
 
         <h2>Quer Otimizar seu Site para o Sucesso?</h2>
