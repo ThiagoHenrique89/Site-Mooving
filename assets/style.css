@@ -242,7 +242,7 @@ section {
 }
 
 .cards {
-  display: block;
+  display: flex;
   flex-wrap: wrap;
   gap: 20px;
 }
@@ -295,7 +295,7 @@ position: relative;
 
 .menuCard {
   padding: 0 10px;
-  display: block;
+  display: grid;
   row-gap: 5px;
 }
 .menuCard li{
@@ -310,7 +310,7 @@ position: relative;
 }
 
 .bloco {
-  display: block;
+  display: flex;
   background-color: white;
   padding: 30px;
   margin-bottom: 20px;
