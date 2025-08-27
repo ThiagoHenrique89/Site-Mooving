@@ -29,8 +29,8 @@
   <link rel="shortcut icon" href="/assets/ico/favicon.jpg">
 
   <!-- CSS principal (não bloqueante) -->
-  <link rel="preload" href="/assets/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="/assets/style.css"></noscript>
+  <link rel="preload" href="/assets/style2.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/assets/style2.css"></noscript>
 
     <!-- Google Fonts - carregamento não bloqueante -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
