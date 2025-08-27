@@ -29,16 +29,13 @@
   <link rel="shortcut icon" href="/assets/ico/favicon.jpg">
 
   <!-- CSS principal (não bloqueante) -->
-  <link rel="preload" href="/assets/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link href="/assets/style.css" rel='stylesheet'>
 
 
     <!-- Google Fonts - carregamento não bloqueante -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&family=Poppins:wght@100..900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript>
-    <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&family=Poppins:wght@100..900&display=swap" rel="stylesheet">
-    </noscript>
+    <link href="https://fonts.googleapis.com">
+    <link href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&family=Poppins:wght@100..900&display=swap" orel='stylesheet'>
 
 </head>
 
