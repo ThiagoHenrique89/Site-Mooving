@@ -32,8 +32,6 @@
   <link href="/assets/style.css" rel='stylesheet'>
 
 
-
-
 </head>
 
 <body>
