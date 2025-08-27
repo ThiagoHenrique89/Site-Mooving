@@ -53,7 +53,7 @@
         <p>Se sua empresa busca uma parceria estratégica para dominar os resultados do Google, a <strong>Mooving</strong> é a sua agência de <strong>SEO em Jundiaí</strong>. Nossa equipe está pronta para colocar seu negócio no mapa digital e gerar o crescimento que você merece.</p>
 
         <h2>Quer Otimizar seu Site para o Sucesso?</h2>
-        <p><a href="/contato" title="Fale com a Mooving">Entre em contato com a Mooving</a> e vamos juntos planejar sua estratégia de SEO para alcançar as primeiras posições.</p>
+        <p>Entre em contato com a Mooving e vamos juntos planejar sua estratégia de SEO para alcançar as primeiras posições.</p>
     </article>
 </div>
 </main>

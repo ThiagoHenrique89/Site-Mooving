@@ -53,7 +53,7 @@
         <p>Se você busca uma agência de <strong>gestão de mídias sociais em Jundiaí</strong> que realmente entende de estratégia e resultados, a <strong>Mooving</strong> é a sua parceira ideal. Deixe-nos cuidar da sua presença online para que você possa focar no crescimento do seu negócio.</p>
 
         <h2>Pronto para Impulsionar sua Marca Online?</h2>
-        <p><a href="/contato" title="Fale com a Mooving">Entre em contato com a Mooving</a> e vamos conversar sobre as suas metas. Nosso time está pronto para transformar sua presença digital e conectar sua marca com o público de Jundiaí.</p>
+        <p>Entre em contato com a Mooving e vamos conversar sobre as suas metas. Nosso time está pronto para transformar sua presença digital e conectar sua marca com o público de Jundiaí.</p>
     </article>
 </div>
 </main>
