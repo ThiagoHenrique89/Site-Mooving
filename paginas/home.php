@@ -18,20 +18,20 @@
 			<!-- Primeiro grupo -->
 			<h2>Aumente o faturamento da sua empresa <span class="separador">*</span></h2>
 			<h2>Conquiste novos clientes <span class="separador">*</span></h2>
-			<h2>Aumente o faturamento da sua empres <span class="separador">*</span></h2>
+			<h2>Aumente o faturamento da sua empresa <span class="separador">*</span></h2>
 			<h2>Conquiste novos clientes <span class="separador">*</span></h2>
-			<h2>Aumente o faturamento da sua empres <span class="separador">*</span></h2>
+			<h2>Aumente o faturamento da sua empresa <span class="separador">*</span></h2>
 			<h2>Conquiste novos clientes <span class="separador">*</span></h2>
-			<h2>Aumente o faturamento da sua empres <span class="separador">*</span></h2>
+			<h2>Aumente o faturamento da sua empresa <span class="separador">*</span></h2>
 
 			<!-- Segundo grupo (repetido para efeito contínuo) -->
 			<h2>Aumente o faturamento da sua empresa <span class="separador">*</span></h2>
 			<h2>Conquiste novos clientes <span class="separador">*</span></h2>
-			<h2>Aumente o faturamento da sua empres <span class="separador">*</span></h2>
+			<h2>Aumente o faturamento da sua empresa <span class="separador">*</span></h2>
 			<h2>Conquiste novos clientes <span class="separador">*</span></h2>
-			<h2>Aumente o faturamento da sua empres <span class="separador">*</span></h2>
+			<h2>Aumente o faturamento da sua empresa <span class="separador">*</span></h2>
 			<h2>Conquiste novos clientes <span class="separador">*</span></h2>
-			<h2>Aumente o faturamento da sua empres <span class="separador">*</span></h2>
+			<h2>Aumente o faturamento da sua empresa <span class="separador">*</span></h2>
 
 			</div>
 		</div>
