@@ -41,7 +41,7 @@
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&family=Poppins:ital,wght@0,100..900;1,100..900&display=swap">
 
-  <link rel="stylesheet" href="/assets/mystyle.min.css">
+  <link rel="stylesheet" href="/assets/style.css">
   
 </head>
 
