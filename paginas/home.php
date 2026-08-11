@@ -101,7 +101,7 @@
 				<nav class="menuCard">
 					<ul>
 						<li><a href="/anuncios-trafego-pago#google-ads">GOOGLE ADS</a></li>
-						<li><a href="/anuncios-trafego-pago#social-ads-meta-tik-tok-linkedin">SOCIAL ADS: META a</a></li>
+						<li><a href="/anuncios-trafego-pago#social-ads-meta-tik-tok-linkedin">SOCIAL ADS: META</a></li>
 						<li><a href="/anuncios-trafego-pago#campanhas-360">CAMPANHAS 360º</a></li>
 					</ul>
 				</nav>
