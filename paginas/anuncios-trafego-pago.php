@@ -8,7 +8,7 @@
 <h1 class="mbz tituloServicos">Agência de Tráfego Pago e Anúncios Online em Jundiaí</h1>
 </div>
 <div class="coluna direita">
-<p>A <strong>Mooving</strong> é sua agência especializada em <strong>tráfego pago em Jundiaí</strong>, criando campanhas de anúncios online que geram resultados imediatos para sua empresa. Utilizamos plataformas como <em>Google Ads</em> e <em>Social Ads (Meta, TikTok, LinkedIn)</em> para atrair um público altamente segmentado, com o objetivo de gerar leads, aumentar vendas e fortalecer a sua marca. Nosso foco é otimizar cada centavo do seu investimento, garantindo o máximo retorno para o seu negócio.</p>
+<p>A <strong>Mooving</strong> é sua agência especializada em <strong>tráfego pago em Jundiaí</strong>, criando campanhas de anúncios online que geram resultados imediatos para sua empresa. Utilizamos plataformas como <em>Google Ads</em> e <em>Social Ads (Meta)</em> para atrair um público altamente segmentado, com o objetivo de gerar leads, aumentar vendas e fortalecer a sua marca. Nosso foco é otimizar cada centavo do seu investimento, garantindo o máximo retorno para o seu negócio.</p>
 </div>
 </div>
 </div>
@@ -24,7 +24,7 @@
         <p>O <strong>Google Ads</strong> permite que sua empresa apareça para pessoas que já estão procurando por seus produtos ou serviços. Nossos especialistas em <strong>Google Ads em Jundiaí</strong> criam campanhas de pesquisa e display, com palavras-chave estratégicas e anúncios persuasivos, garantindo que sua marca seja encontrada no momento exato em que o cliente precisa de você.</p>
 
         <h2 id="social-ads-meta-tik-tok-linkedin">Social Ads: Alcance seu Público nas Redes Sociais</h2>
-        <p>Com os <strong>Social Ads</strong> (Meta, TikTok, LinkedIn), segmentamos seu público por interesses, comportamentos, dados demográficos e muito mais. Nossa equipe desenvolve campanhas de anúncios para o Facebook, Instagram, TikTok e LinkedIn, focando em branding, engajamento e, claro, conversões. É a maneira perfeita de construir relacionamento e gerar vendas com pessoas que se interessam pelo seu negócio.</p>
+        <p>Com os <strong>Social Ads</strong> (Meta), segmentamos seu público por interesses, comportamentos, dados demográficos e muito mais. Nossa equipe desenvolve campanhas de anúncios para o Facebook, Instagram, focando em branding, engajamento e, claro, conversões. É a maneira perfeita de construir relacionamento e gerar vendas com pessoas que se interessam pelo seu negócio.</p>
 
         <h2 id="campanhas-360">Campanhas 360°: Estratégias Integradas para Máximo Impacto</h2>
         <p>As <strong>campanhas 360°</strong> integram o melhor do Google Ads e Social Ads, criando uma estratégia coesa e poderosa. Atingimos seu público em diferentes plataformas e momentos da jornada de compra, desde a busca inicial até a conversão final. Essa abordagem completa maximiza o alcance, otimiza o orçamento e fortalece sua presença digital.</p>
